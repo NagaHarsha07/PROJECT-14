@@ -1,0 +1,2764 @@
+[
+  {
+    "title": "Indian Penal Code - Section 420",
+    "summary": "Deals with cheating and dishonestly inducing delivery of property.",
+    "keywords": ["fraud", "cheated", "money", "scam"]
+  },
+  {
+    "title": "Indian Penal Code - Section 376",
+    "summary": "Punishment for rape.",
+    "keywords": ["rape", "sexual assault", "molestation"]
+  },
+  {
+    "title": "Information Technology Act - Section 66A",
+    "summary": "Punishment for sending offensive messages through communication service.",
+    "keywords": ["cyber", "online", "social media", "abuse"]
+  },
+  {
+    "title": "Indian Contract Act - Section 10",
+    "summary": "Defines what agreements are contracts.",
+    "keywords": ["contract", "agreement", "legally binding"]
+  },
+  {
+    "title": "Consumer Protection Act - Section 17",
+    "summary": "Right to seek redressal for unfair trade practices.",
+    "keywords": ["consumer", "complaint", "refund", "compensation"]
+  },
+  {
+    "title": "Motor Vehicles Act - Section 185",
+    "summary": "Punishment for driving under the influence of alcohol or drugs.",
+    "keywords": ["drunk driving", "alcohol", "DUI"]
+  },
+  {
+    "title": "Industrial Disputes Act - Section 25F",
+    "summary": "Conditions precedent to retrenchment of workmen.",
+    "keywords": ["fired", "termination", "layoff", "retrenchment"]
+  },
+  {
+    "title": "Right to Information Act - Section 6",
+    "summary": "Procedure for requesting information from public authorities.",
+    "keywords": ["RTI", "information request", "government data"]
+  },
+  {
+    "title": "Dowry Prohibition Act - Section 3",
+    "summary": "Penalty for giving or taking dowry.",
+    "keywords": ["dowry", "marriage", "bribe"]
+  },
+  {
+    "title": "Domestic Violence Act - Section 3",
+    "summary": "Defines domestic violence and protections available.",
+    "keywords": ["abuse", "domestic", "family", "violence"]
+  },
+  {
+    "title": "Juvenile Justice Act - Section 2",
+    "summary": "Definitions including 'child in need of care and protection'.",
+    "keywords": ["minor", "juvenile", "child abuse"]
+  },
+  {
+    "title": "Income Tax Act - Section 80C",
+    "summary": "Deductions allowed for specified investments and expenses.",
+    "keywords": ["tax", "deduction", "investment", "income"]
+  },
+  {
+    "title": "Transfer of Property Act - Section 52",
+    "summary": "Deals with transfer of property during litigation.",
+    "keywords": ["property", "dispute", "sale", "litigation"]
+  },
+  {
+    "title": "Hindu Marriage Act - Section 13",
+    "summary": "Grounds for divorce under Hindu Law.",
+    "keywords": ["divorce", "marriage", "separation"]
+  },
+  {
+    "title": "Child Labour (Prohibition) Act - Section 3",
+    "summary": "Prohibits employment of children below 14 years.",
+    "keywords": ["child labour", "employment", "underage"]
+  },
+  {
+    "title": "Maternity Benefit Act - Section 5",
+    "summary": "Provides maternity leave and benefits to women employees.",
+    "keywords": ["maternity", "leave", "pregnancy"]
+  },
+  {
+    "title": "Factories Act - Section 11",
+    "summary": "Deals with cleanliness in factories.",
+    "keywords": ["factory", "cleanliness", "health", "safety"]
+  },
+  {
+    "title": "Indian Penal Code - Section 498A",
+    "summary": "Husband or relatives of husband subjecting woman to cruelty.",
+    "keywords": ["abuse", "dowry", "wife", "cruelty"]
+  },
+  {
+    "title": "Right to Education Act - Section 12",
+    "summary": "Mandates free and compulsory education for children.",
+    "keywords": ["education", "school", "child", "free"]
+  },
+  {
+    "title": "Environment Protection Act - Section 3",
+    "summary": "Empowers the central government to take measures to protect the environment.",
+    "keywords": ["pollution", "environment", "waste"]
+  },
+  {
+    "title": "Indian Penal Code - Section 307",
+    "summary": "Attempt to murder.",
+    "keywords": ["murder", "attempted murder", "assault"]
+  },
+  {
+    "title": "Negotiable Instruments Act - Section 138",
+    "summary": "Punishment for dishonour of cheque for insufficiency of funds.",
+    "keywords": ["cheque bounce", "payment", "bank", "dishonour"]
+  },
+  {
+    "title": "Code of Criminal Procedure - Section 154",
+    "summary": "Procedure for filing an FIR.",
+    "keywords": ["FIR", "police", "complaint"]
+  },
+  {
+    "title": "Indian Evidence Act - Section 24",
+    "summary": "Confession caused by inducement is inadmissible.",
+    "keywords": ["evidence", "confession", "coercion"]
+  },
+  {
+    "title": "Sexual Harassment of Women at Workplace Act - Section 4",
+    "summary": "Formation of Internal Complaints Committee.",
+    "keywords": ["harassment", "office", "workplace", "sexual"]
+  },
+  {
+    "title": "The Citizenship Act - Section 5",
+    "summary": "Acquisition of citizenship by registration.",
+    "keywords": ["citizenship", "immigration", "registration"]
+  },
+  {
+    "title": "The Representation of the People Act - Section 62",
+    "summary": "Right to vote.",
+    "keywords": ["voting", "election", "rights"]
+  },
+  {
+    "title": "Prevention of Corruption Act - Section 7",
+    "summary": "Public servant taking gratification other than legal remuneration.",
+    "keywords": ["bribe", "corruption", "government"]
+  },
+  {
+    "title": "Indian Penal Code - Section 304B",
+    "summary": "Dowry death.",
+    "keywords": ["dowry", "death", "marriage", "wife"]
+  },
+  {
+    "title": "Employees' Provident Funds Act - Section 6",
+    "summary": "Contribution by employer and employee.",
+    "keywords": ["pf", "provident fund", "salary"]
+  },
+  {
+    "title": "The Prevention of Money Laundering Act - Section 3",
+    "summary": "Defines the offense of money laundering.",
+    "keywords": ["money laundering", "fraud", "finance"]
+  },
+  {
+    "title": "The Foreign Exchange Management Act - Section 3",
+    "summary": "Restrictions on dealing in foreign exchange.",
+    "keywords": ["foreign exchange", "FEMA", "money transfer"]
+  },
+  {
+    "title": "The Copyright Act - Section 14",
+    "summary": "Defines copyright and related rights.",
+    "keywords": ["copyright", "intellectual property", "copy"]
+  },
+  {
+    "title": "The Patent Act - Section 3",
+    "summary": "What are not inventions.",
+    "keywords": ["patent", "innovation", "idea"]
+  },
+  {
+    "title": "The Trademark Act - Section 2",
+    "summary": "Definition of trademarks.",
+    "keywords": ["brand", "logo", "trademark"]
+  },
+  {
+    "title": "The Aadhaar Act - Section 7",
+    "summary": "Subsidy, benefit or service requires Aadhaar authentication.",
+    "keywords": ["aadhaar", "identity", "government"]
+  },
+  {
+    "title": "The Prevention of Atrocities Act - Section 3",
+    "summary": "Offenses against members of SC/ST.",
+    "keywords": ["caste", "discrimination", "atrocity"]
+  },
+  {
+    "title": "The National Food Security Act - Section 3",
+    "summary": "Right to receive food grains at subsidized prices.",
+    "keywords": ["ration", "food", "rights", "subsidy"]
+  },
+  {
+    "title": "The Electricity Act - Section 126",
+    "summary": "Unauthorized use of electricity.",
+    "keywords": ["electricity", "power theft", "bill"]
+  },
+  {
+    "title": "The Telecom Regulatory Authority Act - Section 11",
+    "summary": "TRAI's powers to regulate telecom services.",
+    "keywords": ["mobile", "telecom", "TRAI", "network"]
+  },
+  {
+    "title": "The Water Act - Section 24",
+    "summary": "Prohibits pollution of water bodies.",
+    "keywords": ["water", "pollution", "clean", "waste"]
+  },
+  {
+    "title": "The Air Act - Section 21",
+    "summary": "Requirement for consent to emit air pollutants.",
+    "keywords": ["air", "pollution", "factory"]
+  },
+  {
+    "title": "The Disaster Management Act - Section 6",
+    "summary": "Establishes National Authority for disaster management.",
+    "keywords": ["disaster", "earthquake", "flood", "emergency"]
+  },
+  {
+    "title": "The Epidemic Diseases Act - Section 2",
+    "summary": "Special powers to control epidemics.",
+    "keywords": ["epidemic", "virus", "disease", "lockdown"]
+  },
+  {
+    "title": "The Prevention of Insults to National Honour Act - Section 2",
+    "summary": "Penalty for insult to national symbols.",
+    "keywords": ["national flag", "anthem", "insult"]
+  },
+  {
+    "title": "The SC/ST (Prevention of Atrocities) Act - Section 4",
+    "summary": "Punishment for neglect of duties by public servant.",
+    "keywords": ["SC", "ST", "caste", "rights"]
+  },
+  {
+    "title": "The Mental Healthcare Act - Section 18",
+    "summary": "Right to access mental healthcare services.",
+    "keywords": ["mental health", "hospital", "depression"]
+  },
+  {
+    "title": "The Transgender Persons Act - Section 3",
+    "summary": "Prohibition against discrimination of transgender persons.",
+    "keywords": ["transgender", "gender", "discrimination"]
+  },
+  {
+    "title": "Indian Penal Code - Section 302",
+    "summary": "Punishment for murder.",
+    "keywords": ["murder", "homicide", "death"]
+  },
+  {
+    "title": "Indian Penal Code - Section 375",
+    "summary": "Defines rape and its various forms.",
+    "keywords": ["rape", "sexual offence", "crime"]
+  },
+  {
+    "title": "Code of Civil Procedure - Section 80",
+    "summary": "Requirement of notice before suing the government.",
+    "keywords": ["government", "legal notice", "sue"]
+  },
+  {
+    "title": "Indian Evidence Act - Section 65B",
+    "summary": "Admissibility of electronic records.",
+    "keywords": ["evidence", "digital", "electronic record"]
+  },
+  {
+    "title": "Code of Criminal Procedure - Section 437",
+    "summary": "When bail may be taken in non-bailable offence.",
+    "keywords": ["bail", "non-bailable", "arrest"]
+  },
+  {
+    "title": "Hindu Succession Act - Section 6",
+    "summary": "Equal rights of daughters in coparcenary property.",
+    "keywords": ["inheritance", "daughters", "property"]
+  },
+  {
+    "title": "Indian Penal Code - Section 509",
+    "summary": "Word, gesture or act intended to insult modesty of a woman.",
+    "keywords": ["insult", "woman", "modesty"]
+  },
+  {
+    "title": "Indian Penal Code - Section 354",
+    "summary": "Assault or criminal force to woman with intent to outrage her modesty.",
+    "keywords": ["assault", "woman", "modesty"]
+  },
+  {
+    "title": "Indian Contract Act - Section 73",
+    "summary": "Compensation for loss or damage caused by breach of contract.",
+    "keywords": ["contract", "damages", "compensation"]
+  },
+  {
+    "title": "Right to Information Act - Section 8",
+    "summary": "Exemptions from disclosure of information.",
+    "keywords": ["RTI", "exemption", "confidential"]
+  },
+  {
+    "title": "The Arbitration and Conciliation Act - Section 11",
+    "summary": "Appointment of arbitrators.",
+    "keywords": ["arbitration", "dispute resolution", "arbitrator"]
+  },
+  {
+    "title": "Protection of Children from Sexual Offences Act - Section 7",
+    "summary": "Defines sexual assault on children.",
+    "keywords": ["POCSO", "child", "abuse"]
+  },
+  {
+    "title": "The National Green Tribunal Act - Section 14",
+    "summary": "Jurisdiction of tribunal for environmental issues.",
+    "keywords": ["environment", "NGT", "dispute"]
+  },
+  {
+    "title": "The Banking Regulation Act - Section 35A",
+    "summary": "RBI's power to give directions to banks.",
+    "keywords": ["bank", "RBI", "regulation"]
+  },
+  {
+    "title": "The Competition Act - Section 3",
+    "summary": "Prohibits anti-competitive agreements.",
+    "keywords": ["competition", "market", "monopoly"]
+  },
+  {
+    "title": "The Payment and Settlement Systems Act - Section 4",
+    "summary": "Regulation of payment systems by RBI.",
+    "keywords": ["payment", "RBI", "transactions"]
+  },
+  {
+    "title": "The Prevention of Terrorism Act - Section 3",
+    "summary": "Punishment for terrorist activities.",
+    "keywords": ["terrorism", "security", "law"]
+  },
+  {
+    "title": "The Wildlife Protection Act - Section 9",
+    "summary": "Prohibition of hunting wild animals.",
+    "keywords": ["wildlife", "animals", "hunting"]
+  },
+  {
+    "title": "The Forest Rights Act - Section 3",
+    "summary": "Recognition of forest rights of traditional dwellers.",
+    "keywords": ["tribal", "forest", "rights"]
+  },
+  {
+    "title": "The Scheduled Castes and Scheduled Tribes Orders (Amendment) Act",
+    "summary": "Provides for amendment to the list of SC/ST.",
+    "keywords": ["caste", "reservation", "amendment"]
+  },
+  {
+    "title": "The Insolvency and Bankruptcy Code - Section 7",
+    "summary": "Initiation of insolvency by financial creditor.",
+    "keywords": ["bankruptcy", "creditor", "NCLT"]
+  },
+  {
+    "title": "The Real Estate (Regulation and Development) Act - Section 3",
+    "summary": "Mandatory registration of real estate projects.",
+    "keywords": ["RERA", "real estate", "registration"]
+  },
+  {
+    "title": "The Aadhaar and Other Laws (Amendment) Act - Section 3",
+    "summary": "Voluntary use of Aadhaar number.",
+    "keywords": ["aadhaar", "privacy", "voluntary"]
+  },
+  {
+    "title": "The Child Marriage Restraint Act - Section 5",
+    "summary": "Punishment for solemnising a child marriage.",
+    "keywords": ["child marriage", "minor", "illegal"]
+  },
+  {
+    "title": "The Legal Services Authorities Act - Section 12",
+    "summary": "Persons entitled to free legal aid.",
+    "keywords": ["legal aid", "free", "justice"]
+  },
+  {
+    "title": "The Armed Forces (Special Powers) Act - Section 4",
+    "summary": "Special powers to armed forces in disturbed areas.",
+    "keywords": ["AFSPA", "military", "law and order"]
+  },
+  {
+    "title": "The Labour Laws (Exemption) Act - Section 1",
+    "summary": "Simplifies compliance for small establishments.",
+    "keywords": ["labour", "employment", "exemption"]
+  },
+  {
+    "title": "The National Commission for Women Act - Section 10",
+    "summary": "Functions of the National Commission for Women.",
+    "keywords": ["women", "commission", "rights"]
+  },
+  {
+    "title": "The Public Gambling Act - Section 3",
+    "summary": "Penalty for owning or keeping a common gaming house.",
+    "keywords": ["gambling", "betting", "crime"]
+  },
+  {
+    "title": "The Drugs and Cosmetics Act - Section 27",
+    "summary": "Penalty for manufacture or sale of adulterated drugs.",
+    "keywords": ["drugs", "adulteration", "pharmacy"]
+  },
+  {
+    "title": "The Cinematograph Act - Section 5B",
+    "summary": "Guiding principles for certification of films.",
+    "keywords": ["film", "censorship", "cinema"]
+  },
+  {
+    "title": "The Street Vendors Act - Section 4",
+    "summary": "Right of street vendors to carry out vending activities.",
+    "keywords": ["vendors", "hawkers", "license"]
+  },
+  {
+    "title": "The Whistle Blowers Protection Act - Section 4",
+    "summary": "Safeguards against victimization of whistleblowers.",
+    "keywords": ["whistleblower", "protection", "corruption"]
+  },
+  {
+    "title": "The Foreign Contribution Regulation Act - Section 3",
+    "summary": "Prohibits political parties from accepting foreign funds.",
+    "keywords": ["FCRA", "foreign funds", "donation"]
+  },
+  {
+    "title": "The Contempt of Courts Act - Section 2",
+    "summary": "Defines civil and criminal contempt.",
+    "keywords": ["contempt", "court", "justice"]
+  },
+  {
+    "title": "The Census Act - Section 5",
+    "summary": "Obligation to provide accurate census information.",
+    "keywords": ["census", "population", "data"]
+  },
+  {
+    "title": "The National Rural Employment Guarantee Act - Section 3",
+    "summary": "Right to 100 days of employment in rural areas.",
+    "keywords": ["MGNREGA", "rural", "employment"]
+  },
+  {
+    "title": "The Anti-Hijacking Act - Section 3",
+    "summary": "Defines and penalizes aircraft hijacking.",
+    "keywords": ["hijacking", "aircraft", "terror"]
+  },
+  {
+    "title": "The Biological Diversity Act - Section 6",
+    "summary": "Regulates transfer of biological resources.",
+    "keywords": ["biodiversity", "resources", "conservation"]
+  },
+  {
+    "title": "The Lokpal and Lokayuktas Act - Section 4",
+    "summary": "Appointment of the Lokpal.",
+    "keywords": ["lokpal", "corruption", "ombudsman"]
+  },
+  {
+    "title": "The Official Secrets Act - Section 5",
+    "summary": "Wrongful communication of official secrets.",
+    "keywords": ["secrets", "national security", "espionage"]
+  },
+  {
+    "title": "The Indian Succession Act - Section 32",
+    "summary": "Property rights of widows.",
+    "keywords": ["succession", "property", "widow"]
+  },
+  {
+    "title": "The Prohibition of Employment as Manual Scavengers Act - Section 5",
+    "summary": "Prohibits employment of manual scavengers.",
+    "keywords": ["scavenging", "sanitation", "labour"]
+  },
+  {
+    "title": "The Unlawful Activities (Prevention) Act - Section 15",
+    "summary": "Definition of terrorist acts.",
+    "keywords": ["UAPA", "terrorism", "crime"]
+  },
+  {
+    "title": "The Emigration Act - Section 10",
+    "summary": "Regulates emigration for employment outside India.",
+    "keywords": ["emigration", "overseas", "work permit"]
+  },
+  {
+    "title": "The Right to Fair Compensation and Transparency in Land Acquisition Act - Section 24",
+    "summary": "Compensation for land acquisition.",
+    "keywords": ["land", "acquisition", "compensation"]
+  },
+  {
+    "title": "Information Technology Act, 2000",
+    "summary": "Provides legal recognition for transactions carried out by means of electronic data interchange and other means of electronic communication.",
+    "keywords": ["cybercrime", "online fraud", "IT", "data", "hacking"]
+  },
+  {
+    "title": "Consumer Protection Act, 2019",
+    "summary": "Protects the interests of consumers and establishes consumer courts for quick redressal.",
+    "keywords": ["consumer", "complaint", "defective", "refund", "compensation"]
+  },
+  {
+    "title": "Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013",
+    "summary": "Protects women from sexual harassment at the workplace and provides mechanisms for redressal.",
+    "keywords": ["sexual harassment", "workplace", "women", "POSH"]
+  },
+  {
+    "title": "Protection of Children from Sexual Offences (POCSO) Act, 2012",
+    "summary": "A comprehensive law to provide for the protection of children from sexual assault and pornography.",
+    "keywords": ["child abuse", "sexual offences", "POCSO", "minors"]
+  },
+  {
+    "title": "Right to Education Act, 2009",
+    "summary": "Guarantees free and compulsory education to all children aged 6 to 14.",
+    "keywords": ["education", "school", "children", "RTE"]
+  },
+  {
+    "title": "Whistle Blowers Protection Act, 2014",
+    "summary": "Provides protection to whistleblowers against retaliation for reporting corruption or wrongdoing.",
+    "keywords": ["whistleblower", "corruption", "expose", "protection"]
+  },
+  {
+    "title": "National Food Security Act, 2013",
+    "summary": "Ensures food and nutritional security to people by providing subsidized food grains.",
+    "keywords": ["food", "ration", "PDS", "hunger", "nutrition"]
+  },
+  {
+    "title": "Motor Vehicles Act, 1988",
+    "summary": "Regulates all aspects of road transport vehicles and traffic laws in India.",
+    "keywords": ["traffic", "driving", "accident", "vehicle", "license"]
+  },
+  {
+    "title": "Representation of the People Act, 1951",
+    "summary": "Provides for the conduct of elections and the powers of election commissions.",
+    "keywords": ["election", "voting", "MP", "MLA", "candidates"]
+  },
+  {
+    "title": "Trade Unions Act, 1926",
+    "summary": "Legalizes the formation of trade unions and provides rights to collective bargaining.",
+    "keywords": ["trade union", "labor", "workers", "strikes", "collective"]
+  },
+  {
+    "title": "Environmental Protection Act, 1986",
+    "summary": "Provides a framework for the protection and improvement of the environment.",
+    "keywords": ["pollution", "environment", "climate", "hazardous", "waste"]
+  },
+  {
+    "title": "Forest Rights Act, 2006",
+    "summary": "Recognizes the rights of forest-dwelling tribal communities to land and resources.",
+    "keywords": ["tribal", "forest", "rights", "land"]
+  },
+  {
+    "title": "Citizenship Act, 1955",
+    "summary": "Defines the acquisition and termination of Indian citizenship.",
+    "keywords": ["citizenship", "nationality", "NRI", "OCI"]
+  },
+  {
+    "title": "Fugitive Economic Offenders Act, 2018",
+    "summary": "Allows for confiscation of properties of economic offenders who flee the country.",
+    "keywords": ["economic offence", "fugitive", "money", "fraud", "Nirav"]
+  },
+  {
+    "title": "Central Vigilance Commission Act, 2003",
+    "summary": "Sets up the Central Vigilance Commission to address governmental corruption.",
+    "keywords": ["corruption", "vigilance", "CVC", "bribery"]
+  },
+  {
+    "title": "Disaster Management Act, 2005",
+    "summary": "Provides a legal framework for disaster response and preparedness.",
+    "keywords": ["disaster", "flood", "earthquake", "emergency"]
+  },
+  {
+    "title": "The Clinical Establishments Act, 2010",
+    "summary": "Regulates registration and maintenance of clinical establishments.",
+    "keywords": ["clinic", "hospital", "health", "registration"]
+  },
+  {
+    "title": "The Juvenile Justice Act, 2015",
+    "summary": "Deals with crimes committed by juveniles and their rehabilitation.",
+    "keywords": ["juvenile", "minor", "child crime", "rehabilitation"]
+  },
+  {
+    "title": "The Anti-Hijacking Act, 2016",
+    "summary": "Provides stringent punishments for hijacking aircraft.",
+    "keywords": ["hijack", "aircraft", "aviation", "terror"]
+  },
+  {
+    "title": "The Insolvency and Bankruptcy Code, 2016",
+    "summary": "Consolidates laws related to insolvency and bankruptcy for individuals and companies.",
+    "keywords": ["bankruptcy", "insolvency", "debt", "creditor"]
+  },
+  {
+    "title": "The Black Money (Undisclosed Foreign Income and Assets) Act, 2015",
+    "summary": "Targets undisclosed foreign income and assets.",
+    "keywords": ["black money", "foreign assets", "tax evasion"]
+  },
+  {
+    "title": "The Cable Television Networks Regulation Act, 1995",
+    "summary": "Regulates cable television content and broadcasting.",
+    "keywords": ["TV", "broadcast", "censorship", "cable"]
+  },
+  {
+    "title": "The Prevention of Insults to National Honour Act, 1971",
+    "summary": "Protects the dignity of the national symbols like the flag and anthem.",
+    "keywords": ["national flag", "anthem", "insult", "respect"]
+  },
+  {
+    "title": "The Legal Metrology Act, 2009",
+    "summary": "Ensures fair trade practices with correct weights and measures.",
+    "keywords": ["weighing", "measuring", "trade", "accuracy"]
+  },
+  {
+    "title": "The Factories Act, 1948",
+    "summary": "Ensures safety, health, and welfare of workers in factories.",
+    "keywords": ["factory", "labor", "safety", "health"]
+  },
+  {
+    "title": "The Inter-State Migrant Workmen Act, 1979",
+    "summary": "Regulates the employment of migrant workers.",
+    "keywords": ["migrant", "worker", "contractor", "labor"]
+  },
+  {
+    "title": "The Street Vendors Act, 2014",
+    "summary": "Protects the rights of urban street vendors.",
+    "keywords": ["vendor", "hawker", "street business"]
+  },
+  {
+    "title": "The National Green Tribunal Act, 2010",
+    "summary": "Establishes a tribunal for handling environmental protection cases.",
+    "keywords": ["environment", "NGT", "tribunal", "green"]
+  },
+  {
+    "title": "The Unlawful Activities Prevention Act (UAPA), 1967",
+    "summary": "Aimed at preventing unlawful activities and terrorism.",
+    "keywords": ["terrorism", "unlawful", "security", "UAPA"]
+  },
+  {
+    "title": "The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989",
+    "summary": "Prevents discrimination and atrocities against SC/ST communities.",
+    "keywords": ["SC", "ST", "discrimination", "caste"]
+  },
+  {
+    "title": "The Mines and Minerals Act, 1957",
+    "summary": "Regulates mining and mineral extraction in India.",
+    "keywords": ["mining", "minerals", "excavation"]
+  },
+  {
+    "title": "The Official Secrets Act, 1923",
+    "summary": "Prohibits sharing of sensitive information that could harm national security.",
+    "keywords": ["secret", "security", "classified", "espionage"]
+  },
+  {
+    "title": "The Ancient Monuments and Archaeological Sites Act, 1958",
+    "summary": "Preserves ancient monuments and heritage sites.",
+    "keywords": ["monument", "heritage", "archaeology"]
+  },
+  {
+    "title": "The Copyright Act, 1957",
+    "summary": "Protects original literary, artistic, musical, and dramatic works.",
+    "keywords": ["copyright", "intellectual", "creative", "infringement"]
+  },
+  {
+    "title": "The Patents Act, 1970",
+    "summary": "Governs the patenting of inventions in India.",
+    "keywords": ["patent", "innovation", "invention", "intellectual"]
+  },
+  {
+    "title": "The Designs Act, 2000",
+    "summary": "Provides protection for industrial designs.",
+    "keywords": ["design", "industrial", "protection"]
+  },
+  {
+    "title": "The Trademarks Act, 1999",
+    "summary": "Provides for registration and protection of trademarks.",
+    "keywords": ["trademark", "brand", "logo", "business"]
+  },
+  {
+    "title": "The Geographical Indications Act, 1999",
+    "summary": "Protects products with specific geographic origin (like Darjeeling Tea).",
+    "keywords": ["GI", "origin", "geographical", "product"]
+  },
+  {
+    "title": "The Protection of Plant Varieties and Farmers' Rights Act, 2001",
+    "summary": "Protects new varieties of plants and the rights of farmers.",
+    "keywords": ["farmers", "plants", "seeds", "agriculture"]
+  },
+  {
+    "title": "The Prevention of Damage to Public Property Act, 1984",
+    "summary": "Punishes acts of vandalism or destruction of public property.",
+    "keywords": ["vandalism", "damage", "property", "public"]
+  },
+  {
+    "title": "The Wildlife Protection Act, 1972",
+    "summary": "Protects wild animals and plants to ensure ecological security.",
+    "keywords": ["wildlife", "forest", "animals", "poaching"]
+  },
+  {
+    "title": "The Air (Prevention and Control of Pollution) Act, 1981",
+    "summary": "Aims to control and reduce air pollution.",
+    "keywords": ["air pollution", "smoke", "factories", "environment"]
+  },
+  {
+    "title": "The Water (Prevention and Control of Pollution) Act, 1974",
+    "summary": "Aims to prevent and control water pollution.",
+    "keywords": ["water pollution", "river", "waste", "drain"]
+  },
+  {
+    "title": "The Biological Diversity Act, 2002",
+    "summary": "Promotes conservation of biological resources and fair use.",
+    "keywords": ["biodiversity", "species", "genetic", "conservation"]
+  },
+  {
+    "title": "The Indian Penal Code (Amendment) Act, 2013",
+    "summary": "Made major changes to laws related to sexual assault and crimes against women.",
+    "keywords": ["rape", "assault", "violence", "women"]
+  },
+  {
+    "title": "The Lokpal and Lokayuktas Act, 2013",
+    "summary": "Establishes Lokpal to inquire into corruption complaints against public functionaries.",
+    "keywords": ["Lokpal", "corruption", "complaint", "government"]
+  },
+  {
+    "title": "The Real Estate (Regulation and Development) Act, 2016",
+    "summary": "Regulates the real estate sector and protects buyers.",
+    "keywords": ["real estate", "builder", "property", "RERA"]
+  },
+  {
+    "title": "The Aadhaar Act, 2016",
+    "summary": "Provides legal backing for the use of Aadhaar numbers for identity verification.",
+    "keywords": ["Aadhaar", "identity", "UID", "verification"]
+  },
+  {
+    "title": "The Prevention of Money Laundering Act, 2002",
+    "summary": "Prevents money laundering and allows for confiscation of property.",
+    "keywords": ["money laundering", "bank", "fraud", "confiscation"]
+  },
+  {
+    "title": "Foreign Exchange Management Act, 1999",
+    "summary": "Regulates foreign exchange transactions and aims to facilitate external trade and payments.",
+    "keywords": ["foreign exchange", "FEMA", "trade", "payments"]
+  },
+  {
+    "title": "Factories Act, 1948",
+    "summary": "Ensures the health, safety, and welfare of workers in factories.",
+    "keywords": ["factory", "labour", "health", "safety", "welfare"]
+  },
+  {
+    "title": "Wildlife Protection Act, 1972",
+    "summary": "Protects wild animals, birds, and plants and ensures ecological and environmental security.",
+    "keywords": ["wildlife", "animals", "conservation", "environment"]
+  },
+  {
+    "title": "Cable Television Networks (Regulation) Act, 1995",
+    "summary": "Regulates cable television networks in India.",
+    "keywords": ["television", "cable", "broadcast", "media"]
+  },
+  {
+    "title": "Water (Prevention and Control of Pollution) Act, 1974",
+    "summary": "Prevents and controls water pollution and maintains the quality of water.",
+    "keywords": ["pollution", "water", "environment", "control"]
+  },
+  {
+    "title": "Air (Prevention and Control of Pollution) Act, 1981",
+    "summary": "Aims to control and reduce air pollution in India.",
+    "keywords": ["air pollution", "control", "environment"]
+  },
+  {
+    "title": "Information Technology Act, 2000",
+    "summary": "Provides legal recognition for electronic transactions and cybercrime prevention.",
+    "keywords": ["IT", "cybercrime", "internet", "data", "digital"]
+  },
+  {
+    "title": "National Food Security Act, 2013",
+    "summary": "Ensures access to adequate quantity of quality food at affordable prices.",
+    "keywords": ["food", "security", "ration", "nutrition"]
+  },
+  {
+    "title": "Right to Education Act, 2009",
+    "summary": "Provides free and compulsory education to children aged 6 to 14 years.",
+    "keywords": ["education", "children", "school", "compulsory"]
+  },
+  {
+    "title": "Legal Services Authorities Act, 1987",
+    "summary": "Provides free legal aid and establishes Lok Adalats for dispute resolution.",
+    "keywords": ["legal aid", "Lok Adalat", "justice", "help"]
+  },
+  {
+    "title": "Scheduled Castes and Tribes (Prevention of Atrocities) Act, 1989",
+    "summary": "Prevents atrocities and discrimination against SC/ST communities.",
+    "keywords": ["SC", "ST", "discrimination", "atrocities"]
+  },
+  {
+    "title": "Prohibition of Child Marriage Act, 2006",
+    "summary": "Prohibits the solemnization of child marriages.",
+    "keywords": ["child marriage", "minor", "girls", "protection"]
+  },
+  {
+    "title": "Protection of Children from Sexual Offences (POCSO) Act, 2012",
+    "summary": "Protects children from sexual offences.",
+    "keywords": ["child abuse", "POCSO", "sexual", "protection"]
+  },
+  {
+    "title": "Juvenile Justice (Care and Protection of Children) Act, 2015",
+    "summary": "Provides protection and rehabilitation for juveniles.",
+    "keywords": ["juvenile", "child", "justice", "rehabilitation"]
+  },
+  {
+    "title": "Consumer Protection Act, 2019",
+    "summary": "Protects the rights and interests of consumers.",
+    "keywords": ["consumer", "rights", "complaint", "fraud", "products"]
+  },
+  {
+    "title": "Environment Protection Act, 1986",
+    "summary": "Provides the framework for environmental protection in India.",
+    "keywords": ["environment", "pollution", "control", "law"]
+  },
+  {
+    "title": "National Green Tribunal Act, 2010",
+    "summary": "Establishes a tribunal for expeditious environmental justice.",
+    "keywords": ["NGT", "environment", "justice", "tribunal"]
+  },
+  {
+    "title": "Sexual Harassment of Women at Workplace Act, 2013",
+    "summary": "Protects women from sexual harassment at the workplace.",
+    "keywords": ["women", "workplace", "harassment", "safety"]
+  },
+  {
+    "title": "Protection of Human Rights Act, 1993",
+    "summary": "Establishes the National Human Rights Commission.",
+    "keywords": ["human rights", "NHRC", "justice"]
+  },
+  {
+    "title": "Indian Medical Council Act, 1956",
+    "summary": "Regulates medical education and practice in India.",
+    "keywords": ["medical", "doctors", "education", "regulation"]
+  },
+  {
+    "title": "Drugs and Cosmetics Act, 1940",
+    "summary": "Regulates import, manufacture, distribution and sale of drugs and cosmetics.",
+    "keywords": ["drugs", "cosmetics", "safety", "medicine"]
+  },
+  {
+    "title": "Essential Commodities Act, 1955",
+    "summary": "Ensures delivery of essential commodities and controls hoarding.",
+    "keywords": ["commodities", "ration", "control", "hoarding"]
+  },
+  {
+    "title": "Prevention of Corruption Act, 1988",
+    "summary": "Addresses corruption in government agencies and public sector.",
+    "keywords": ["corruption", "bribe", "public servant"]
+  },
+  {
+    "title": "Unlawful Activities (Prevention) Act, 1967",
+    "summary": "Prevents unlawful activities and terrorism.",
+    "keywords": ["UAPA", "terrorism", "security"]
+  },
+  {
+    "title": "Arms Act, 1959",
+    "summary": "Regulates acquisition, possession, manufacture, sale and transfer of arms and ammunition.",
+    "keywords": ["arms", "weapons", "license"]
+  },
+  {
+    "title": "Atomic Energy Act, 1962",
+    "summary": "Deals with atomic energy, research and development in nuclear energy.",
+    "keywords": ["nuclear", "atomic", "energy", "research"]
+  },
+  {
+    "title": "Right to Fair Compensation and Transparency in Land Acquisition Act, 2013",
+    "summary": "Governs land acquisition and ensures fair compensation.",
+    "keywords": ["land", "acquisition", "compensation"]
+  },
+  {
+    "title": "Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014",
+    "summary": "Protects the rights of street vendors and regulates street vending.",
+    "keywords": ["street vendors", "hawkers", "livelihood"]
+  },
+  {
+    "title": "National Investigation Agency Act, 2008",
+    "summary": "Establishes the NIA to investigate and prosecute offenses affecting national security.",
+    "keywords": ["NIA", "terror", "investigation", "security"]
+  },
+  {
+    "title": "Public Premises (Eviction of Unauthorised Occupants) Act, 1971",
+    "summary": "Provides eviction of unauthorized occupants from public premises.",
+    "keywords": ["eviction", "unauthorized", "land", "government"]
+  },
+  {
+    "title": "Official Secrets Act, 1923",
+    "summary": "Deals with spying, espionage, and disclosure of secret government information.",
+    "keywords": ["secrets", "espionage", "spying", "leak"]
+  },
+  {
+    "title": "Cinematograph Act, 1952",
+    "summary": "Governs the certification of films for public exhibition and regulates their content.",
+    "keywords": ["films", "certification", "cinema", "movies"]
+  },
+  {
+    "title": "Trade Marks Act, 1999",
+    "summary": "Provides for registration and protection of trade marks in India.",
+    "keywords": ["trademark", "brand", "logo", "registration"]
+  },
+  {
+    "title": "Copyright Act, 1957",
+    "summary": "Provides protection to authors of original literary, artistic, and musical works.",
+    "keywords": ["copyright", "intellectual property", "IPR"]
+  },
+  {
+    "title": "Designs Act, 2000",
+    "summary": "Protects the designs of manufactured goods.",
+    "keywords": ["designs", "industrial", "IPR", "patent"]
+  },
+  {
+    "title": "Patents Act, 1970",
+    "summary": "Governs the granting of patents for new inventions in India.",
+    "keywords": ["patent", "invention", "intellectual property"]
+  },
+  {
+    "title": "Geographical Indications of Goods Act, 1999",
+    "summary": "Provides registration and protection of geographical indications for products.",
+    "keywords": ["GI", "origin", "products", "protection"]
+  },
+  {
+    "title": "Banking Regulation Act, 1949",
+    "summary": "Regulates all banking firms in India.",
+    "keywords": ["bank", "RBI", "financial", "regulation"]
+  },
+  {
+    "title": "Reserve Bank of India Act, 1934",
+    "summary": "Establishes the Reserve Bank of India and defines its functions.",
+    "keywords": ["RBI", "banking", "currency", "monetary policy"]
+  },
+  {
+    "title": "Insurance Act, 1938",
+    "summary": "Regulates the insurance sector in India.",
+    "keywords": ["insurance", "regulation", "IRDAI"]
+  },
+  {
+    "title": "Motor Vehicles Act, 1988",
+    "summary": "Regulates all aspects of road transport vehicles and traffic laws.",
+    "keywords": ["vehicles", "license", "traffic", "accident"]
+  },
+  {
+    "title": "Negotiable Instruments Act, 1881",
+    "summary": "Deals with promissory notes, bills of exchange, and cheques.",
+    "keywords": ["cheque", "bounce", "promissory", "legal"]
+  },
+  {
+    "title": "Companies Act, 2013",
+    "summary": "Regulates incorporation, responsibilities, and dissolution of companies.",
+    "keywords": ["companies", "business", "registration", "corporate"]
+  },
+  {
+    "title": "Income Tax Act, 1961",
+    "summary": "Governs taxation on income earned by individuals and companies.",
+    "keywords": ["income tax", "returns", "filing", "tax"]
+  },
+  {
+    "title": "Goods and Services Tax (GST) Act, 2017",
+    "summary": "Consolidates multiple indirect taxes into one tax system.",
+    "keywords": ["GST", "tax", "sales", "purchase"]
+  },
+  {
+    "title": "Benami Transactions (Prohibition) Act, 1988",
+    "summary": "Prohibits benami transactions and provides confiscation of benami properties.",
+    "keywords": ["benami", "property", "illegal", "ownership"]
+  },
+  {
+    "title": "Black Money (Undisclosed Foreign Income and Assets) Act, 2015",
+    "summary": "Deals with undisclosed foreign income and assets.",
+    "keywords": ["black money", "foreign", "income", "assets"]
+  },
+  {
+    "title": "The Prevention of Money Laundering Act, 2002",
+    "summary": "Prevents money laundering and confiscates property derived from it.",
+    "keywords": ["money laundering", "financial crime", "PMLA"]
+  },
+  {
+    "title": "Foreign Contribution Regulation Act (FCRA), 2010",
+    "summary": "Regulates foreign donations to NGOs and other entities.",
+    "keywords": ["FCRA", "foreign funding", "NGO"]
+  },
+  {
+    "title": "National Security Act, 1980",
+    "summary": "Allows preventive detention to maintain public order.",
+    "keywords": ["detention", "security", "public order"]
+  },
+  {
+    "title": "The Aadhaar (Targeted Delivery of Financial and Other Subsidies) Act, 2016",
+    "summary": "Provides legal backing for the Aadhaar unique identification number.",
+    "keywords": ["Aadhaar", "identity", "UIDAI", "subsidy"]
+  },
+  {
+    "title": "Labour Laws (Simplification of Procedures) Act",
+    "summary": "Aims to simplify and consolidate various labour laws in India.",
+    "keywords": ["labour", "wages", "employment", "workers"]
+  },
+  {
+    "title": "Equal Remuneration Act, 1976",
+    "summary": "Ensures equal pay for men and women for equal work.",
+    "keywords": ["equal pay", "women", "employment", "remuneration"]
+  },
+  {
+    "title": "Maternity Benefit Act, 1961",
+    "summary": "Regulates maternity leave and benefits for women employees.",
+    "keywords": ["maternity", "leave", "benefit", "women"]
+  },
+  {
+    "title": "Payment of Gratuity Act, 1972",
+    "summary": "Provides for payment of gratuity to employees after retirement.",
+    "keywords": ["gratuity", "employment", "pension"]
+  },
+  {
+    "title": "Apprentices Act, 1961",
+    "summary": "Regulates the training of apprentices in India.",
+    "keywords": ["apprentice", "training", "skill development"]
+  },
+  {
+    "title": "Bonded Labour System (Abolition) Act, 1976",
+    "summary": "Abolishes bonded labour and prohibits its practice.",
+    "keywords": ["bonded labour", "forced labour", "abolition"]
+  },
+  {
+    "title": "Child Labour (Prohibition and Regulation) Act, 1986",
+    "summary": "Prohibits employment of children below a certain age.",
+    "keywords": ["child labour", "employment", "prohibition"]
+  },
+  {
+    "title": "Inter-State Migrant Workmen Act, 1979",
+    "summary": "Protects the rights of inter-state migrant workers.",
+    "keywords": ["migrant workers", "employment", "rights"]
+  },
+  {
+    "title": "Disaster Management Act, 2005",
+    "summary": "Provides a legal framework for disaster risk management and response.",
+    "keywords": ["disaster", "management", "NDMA", "emergency"]
+  },
+  {
+    "title": "Right to Information Act, 2005",
+    "summary": "Empowers citizens to access information from public authorities.",
+    "keywords": ["RTI", "transparency", "government", "information"]
+  },
+  {
+    "title": "The Epidemic Diseases Act, 1897",
+    "summary": "Empowers the government to take special measures during epidemics.",
+    "keywords": ["epidemic", "disease", "health", "quarantine"]
+  },
+  {
+    "title": "Mental Healthcare Act, 2017",
+    "summary": "Provides for the rights of persons with mental illness and access to care.",
+    "keywords": ["mental health", "care", "illness", "treatment"]
+  },
+  {
+    "title": "Transgender Persons (Protection of Rights) Act, 2019",
+    "summary": "Protects the rights of transgender persons and ensures their welfare.",
+    "keywords": ["transgender", "rights", "equality", "protection"]
+  },
+  {
+    "title": "Surrogacy (Regulation) Act, 2021",
+    "summary": "Regulates surrogacy procedures and protects the rights of surrogate mothers.",
+    "keywords": ["surrogacy", "mother", "child", "regulation"]
+  },
+  {
+    "title": "Occupational Safety, Health and Working Conditions Code, 2020",
+    "summary": "Consolidates various labour laws relating to safety, health, and working conditions.",
+    "keywords": ["labour", "safety", "health", "working"]
+  },
+  {
+    "title": "Industrial Relations Code, 2020",
+    "summary": "Deals with trade unions, conditions of employment, and dispute resolution.",
+    "keywords": ["trade union", "industrial", "labour", "strike"]
+  },
+  {
+    "title": "Code on Wages, 2019",
+    "summary": "Regulates wage and bonus payments in all employment.",
+    "keywords": ["wages", "salary", "labour", "employment"]
+  },
+  {
+    "title": "The Personal Data Protection Bill (draft stage)",
+    "summary": "Seeks to protect personal data and privacy of individuals in India.",
+    "keywords": ["data protection", "privacy", "digital", "security"]
+  },
+  {
+    "title": "The Aircraft Act, 1934",
+    "summary": "Regulates the manufacture, possession, use, operation, sale, import, and export of aircraft.",
+    "keywords": ["aircraft", "aviation", "civil aviation"]
+  },
+  {
+    "title": "The Antiquities and Art Treasures Act, 1972",
+    "summary": "Provides for the regulation of export trade in antiquities and art treasures.",
+    "keywords": ["art", "antiquities", "museum", "heritage"]
+  },
+  {
+    "title": "The Architects Act, 1972",
+    "summary": "Provides for registration of architects and recognition of architectural qualifications.",
+    "keywords": ["architecture", "registration", "architects"]
+  },
+  {
+    "title": "The Arms Act, 1959",
+    "summary": "Regulates the acquisition, possession, manufacture, sale, and transfer of arms and ammunition.",
+    "keywords": ["arms", "weapons", "firearms"]
+  },
+  {
+    "title": "The Atomic Energy Act, 1962",
+    "summary": "Regulates atomic energy and associated research, including nuclear safety.",
+    "keywords": ["atomic", "nuclear", "energy", "radiation"]
+  },
+  {
+    "title": "The Bankers’ Books Evidence Act, 1891",
+    "summary": "Facilitates legal evidence from bankers’ books in court proceedings.",
+    "keywords": ["bank", "evidence", "court", "records"]
+  },
+  {
+    "title": "The Biological Diversity Act, 2002",
+    "summary": "Promotes conservation and sustainable use of biological diversity.",
+    "keywords": ["biodiversity", "environment", "conservation"]
+  },
+  {
+    "title": "The Boilers Act, 1923",
+    "summary": "Regulates the manufacture and maintenance of boilers.",
+    "keywords": ["boilers", "safety", "inspection"]
+  },
+  {
+    "title": "The Cable Television Networks (Regulation) Act, 1995",
+    "summary": "Regulates cable television networks in India.",
+    "keywords": ["cable", "television", "broadcast", "media"]
+  },
+  {
+    "title": "The Carriers Act, 1865",
+    "summary": "Defines the liability of common carriers for loss or damage of goods.",
+    "keywords": ["carriers", "transport", "liability"]
+  },
+  {
+    "title": "The Census Act, 1948",
+    "summary": "Provides for the taking of population census in India.",
+    "keywords": ["census", "population", "survey"]
+  },
+  {
+    "title": "The Charitable and Religious Trusts Act, 1920",
+    "summary": "Facilitates investigation of charitable and religious trusts.",
+    "keywords": ["charity", "religion", "trusts"]
+  },
+  {
+    "title": "The Child Marriage Restraint Act, 1929",
+    "summary": "Restricts the solemnization of child marriages.",
+    "keywords": ["child marriage", "minors", "marriage"]
+  },
+  {
+    "title": "The Cinematograph Act, 1952",
+    "summary": "Provides for the certification of films for exhibition.",
+    "keywords": ["cinema", "film", "certification", "movies"]
+  },
+  {
+    "title": "The Collection of Statistics Act, 2008",
+    "summary": "Facilitates the collection of statistics on various aspects of life.",
+    "keywords": ["statistics", "survey", "data collection"]
+  },
+  {
+    "title": "The Commissions of Inquiry Act, 1952",
+    "summary": "Empowers the government to set up commissions for public inquiry.",
+    "keywords": ["inquiry", "commission", "investigation"]
+  },
+  {
+    "title": "The Company Secretaries Act, 1980",
+    "summary": "Provides for regulation of the profession of company secretaries.",
+    "keywords": ["company secretary", "corporate", "regulation"]
+  },
+  {
+    "title": "The Conservation of Foreign Exchange and Prevention of Smuggling Activities Act, 1974",
+    "summary": "Deals with preventive detention of smugglers and foreign exchange manipulators.",
+    "keywords": ["smuggling", "foreign exchange", "detention"]
+  },
+  {
+    "title": "The Contempt of Courts Act, 1971",
+    "summary": "Defines and limits the powers of courts in punishing for contempt.",
+    "keywords": ["contempt", "court", "judiciary"]
+  },
+  {
+    "title": "The Consumer Protection Act, 2019",
+    "summary": "Strengthens consumer rights and simplifies dispute resolution.",
+    "keywords": ["consumer", "rights", "protection", "complaints"]
+  },
+  {
+    "title": "The Contingency Fund of India Act, 1950",
+    "summary": "Regulates contingency fund for emergency government expenditures.",
+    "keywords": ["budget", "fund", "government finance"]
+  },
+  {
+    "title": "The Copyright Act, 1957",
+    "summary": "Protects original literary, dramatic, musical, and artistic works.",
+    "keywords": ["copyright", "intellectual property", "publishing"]
+  },
+  {
+    "title": "The Customs Act, 1962",
+    "summary": "Regulates import and export duties and enforces customs laws.",
+    "keywords": ["customs", "import", "export", "duty"]
+  },
+  {
+    "title": "The Delhi Police Act, 1978",
+    "summary": "Provides for the regulation and control of Delhi Police.",
+    "keywords": ["Delhi", "police", "law enforcement"]
+  },
+  {
+    "title": "The Designs Act, 2000",
+    "summary": "Protects industrial designs and promotes innovation.",
+    "keywords": ["design", "patents", "intellectual property"]
+  },
+  {
+    "title": "The Disaster Management Act, 2005",
+    "summary": "Establishes authorities for disaster preparedness and mitigation.",
+    "keywords": ["disaster", "management", "relief"]
+  },
+  {
+    "title": "The Divorce Act, 1869",
+    "summary": "Governs divorce among Christians in India.",
+    "keywords": ["divorce", "marriage", "Christian", "family law"]
+  },
+  {
+    "title": "The Dock Workers (Regulation of Employment) Act, 1948",
+    "summary": "Regulates the employment of dock workers and improves their conditions.",
+    "keywords": ["dock", "labour", "ports"]
+  },
+  {
+    "title": "The Dowry Prohibition Act, 1961",
+    "summary": "Prohibits the giving and taking of dowry.",
+    "keywords": ["dowry", "marriage", "crime", "family law"]
+  },
+  {
+    "title": "The Drugs and Cosmetics Act, 1940",
+    "summary": "Regulates the import, manufacture, and distribution of drugs and cosmetics.",
+    "keywords": ["drugs", "cosmetics", "pharmacy"]
+  },
+  {
+    "title": "The Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954",
+    "summary": "Prohibits misleading advertisements of drugs and remedies.",
+    "keywords": ["advertising", "health", "drugs"]
+  },
+  {
+    "title": "The Easements Act, 1882",
+    "summary": "Defines rights and liabilities relating to property easements.",
+    "keywords": ["property", "easement", "land rights"]
+  },
+  {
+    "title": "The Electricity Act, 2003",
+    "summary": "Consolidates laws relating to generation, transmission, and distribution of electricity.",
+    "keywords": ["electricity", "energy", "power"]
+  },
+  {
+    "title": "The Emblems and Names (Prevention of Improper Use) Act, 1950",
+    "summary": "Prohibits improper use of certain emblems and names for professional or commercial purposes.",
+    "keywords": ["emblems", "names", "misuse"]
+  },
+  {
+    "title": "The Emigration Act, 1983",
+    "summary": "Regulates emigration of Indian citizens for overseas employment.",
+    "keywords": ["emigration", "overseas", "employment"]
+  },
+  {
+    "title": "The Employers’ Liability Act, 1938",
+    "summary": "Regulates liability of employers for injury to workers.",
+    "keywords": ["employer", "liability", "injury", "workers"]
+  },
+  {
+    "title": "The Employment Exchanges (Compulsory Notification of Vacancies) Act, 1959",
+    "summary": "Mandates employers to notify vacancies to employment exchanges.",
+    "keywords": ["employment", "vacancies", "notification"]
+  },
+  {
+    "title": "The Enemy Property Act, 1968",
+    "summary": "Deals with properties left behind by people who migrated to Pakistan or China.",
+    "keywords": ["enemy property", "evacuee", "ownership"]
+  },
+  {
+    "title": "The Environment (Protection) Act, 1986",
+    "summary": "Provides for the protection and improvement of the environment.",
+    "keywords": ["environment", "pollution", "green laws"]
+  },
+  {
+    "title": "The Equal Remuneration Act, 1976",
+    "summary": "Provides for equal pay for men and women for the same work.",
+    "keywords": ["equality", "remuneration", "gender"]
+  },
+  {
+    "title": "The Essential Commodities Act, 1955",
+    "summary": "Ensures delivery of essential commodities and prevents hoarding and black marketing.",
+    "keywords": ["commodities", "price control", "ration"]
+  },
+  {
+    "title": "The Evidence Act, 1872",
+    "summary": "Sets rules for admissibility of evidence in courts.",
+    "keywords": ["evidence", "court", "trial", "procedure"]
+  },
+  {
+    "title": "The Explosives Act, 1884",
+    "summary": "Regulates the manufacture and handling of explosives.",
+    "keywords": ["explosives", "safety", "manufacture"]
+  },
+  {
+    "title": "The Factories Act, 1948",
+    "summary": "Ensures the safety, health, and welfare of workers in factories.",
+    "keywords": ["factory", "labour", "safety"]
+  },
+  {
+    "title": "The Family Courts Act, 1984",
+    "summary": "Establishes family courts for speedy resolution of family disputes.",
+    "keywords": ["family", "court", "divorce", "custody"]
+  },
+  {
+    "title": "The Fatal Accidents Act, 1855",
+    "summary": "Provides compensation for family members of a person who dies in an accident.",
+    "keywords": ["accident", "fatal", "compensation"]
+  },
+  {
+    "title": "The Fertiliser (Control) Order, 1985",
+    "summary": "Regulates the sale, price, and quality of fertilizers in India.",
+    "keywords": ["fertilizer", "agriculture", "control"]
+  },
+  {
+    "title": "The Foreign Contribution (Regulation) Act, 2010",
+    "summary": "Regulates acceptance and utilization of foreign contribution or hospitality.",
+    "keywords": ["foreign funds", "NGOs", "regulation"]
+  },
+  {
+    "title": "The Foreign Exchange Management Act, 1999",
+    "summary": "Facilitates external trade and promotes orderly development of the forex market.",
+    "keywords": ["foreign exchange", "finance", "FEMA"]
+  },
+  {
+    "title": "The Foreign Marriage Act, 1969",
+    "summary": "Provides for marriages of Indian citizens abroad and their registration.",
+    "keywords": ["marriage", "foreign", "registration"]
+  },
+  {
+    "title": "The Foreign Trade (Development and Regulation) Act, 1992",
+    "summary": "Facilitates development and regulation of foreign trade.",
+    "keywords": ["foreign trade", "exports", "imports"]
+  },
+  {
+    "title": "The Foreigners Act, 1946",
+    "summary": "Regulates the entry and presence of foreigners in India.",
+    "keywords": ["foreigners", "immigration", "visa"]
+  },
+  {
+    "title": "The Forest Act, 1927",
+    "summary": "Provides for the conservation of forests and regulation of forest produce.",
+    "keywords": ["forest", "environment", "conservation"]
+  },
+  {
+    "title": "The Freedom of Information Act, 2002",
+    "summary": "Enables citizens to access information from public authorities.",
+    "keywords": ["information", "transparency", "RTI"]
+  },
+  {
+    "title": "The Fugitive Economic Offenders Act, 2018",
+    "summary": "Allows confiscation of properties of economic offenders who flee India.",
+    "keywords": ["economic offense", "fugitive", "confiscation"]
+  },
+  {
+    "title": "The General Clauses Act, 1897",
+    "summary": "Provides general definitions and rules for interpretation of statutes.",
+    "keywords": ["interpretation", "definitions", "laws"]
+  },
+  {
+    "title": "The Geographical Indications of Goods (Registration and Protection) Act, 1999",
+    "summary": "Provides for registration and protection of geographical indications of goods.",
+    "keywords": ["geographical", "goods", "intellectual property"]
+  },
+  {
+    "title": "The Gift Tax Act, 1958",
+    "summary": "Taxed certain gifts under specified conditions (repealed but referenced).",
+    "keywords": ["gift", "tax", "wealth"]
+  },
+  {
+    "title": "The Government Savings Banks Act, 1873",
+    "summary": "Provides legal status to deposits in government savings banks.",
+    "keywords": ["savings", "government", "bank"]
+  },
+  {
+    "title": "The Guardian and Wards Act, 1890",
+    "summary": "Regulates guardianship of minors and their property.",
+    "keywords": ["guardian", "wards", "minor", "custody"]
+  },
+  {
+    "title": "The Hindu Adoptions and Maintenance Act, 1956",
+    "summary": "Governs adoption and maintenance among Hindus.",
+    "keywords": ["adoption", "maintenance", "Hindu", "family"]
+  },
+  {
+    "title": "The Hindu Marriage Act, 1955",
+    "summary": "Regulates marriage, divorce, and related matters among Hindus.",
+    "keywords": ["marriage", "Hindu", "divorce"]
+  },
+  {
+    "title": "The Hindu Minority and Guardianship Act, 1956",
+    "summary": "Deals with guardianship of Hindu minors.",
+    "keywords": ["Hindu", "minor", "guardian"]
+  },
+  {
+    "title": "The Hindu Succession Act, 1956",
+    "summary": "Governs inheritance and succession among Hindus.",
+    "keywords": ["inheritance", "succession", "Hindu"]
+  },
+  {
+    "title": "The Identification of Prisoners Act, 1920",
+    "summary": "Authorizes taking of measurements of convicts and suspects.",
+    "keywords": ["prisoners", "identification", "police"]
+  },
+  {
+    "title": "The Immoral Traffic (Prevention) Act, 1956",
+    "summary": "Prevents trafficking and sexual exploitation for commercial purposes.",
+    "keywords": ["trafficking", "immoral", "exploitation"]
+  },
+  {
+    "title": "The Income Tax Act, 1961",
+    "summary": "Main statute governing income tax in India.",
+    "keywords": ["tax", "income", "finance"]
+  },
+  {
+    "title": "The Indian Contract Act, 1872",
+    "summary": "Defines contract law including formation, execution, and breach.",
+    "keywords": ["contract", "agreement", "obligations"]
+  },
+  {
+    "title": "The Indian Easements Act, 1882",
+    "summary": "Defines rights of property holders over others' land.",
+    "keywords": ["easement", "property", "access"]
+  },
+  {
+    "title": "The Indian Evidence Act, 1872",
+    "summary": "Sets the rules for admissibility of evidence in courts.",
+    "keywords": ["evidence", "court", "law"]
+  },
+  {
+    "title": "The Indian Forest Act, 1927",
+    "summary": "Regulates forest produce and conserves forests.",
+    "keywords": ["forest", "environment", "law"]
+  },
+  {
+    "title": "The Indian Majority Act, 1875",
+    "summary": "Sets the age of majority in India.",
+    "keywords": ["majority", "minor", "age"]
+  },
+  {
+    "title": "The Indian Partnership Act, 1932",
+    "summary": "Regulates formation and dissolution of partnerships.",
+    "keywords": ["partnership", "business", "agreement"]
+  },
+  {
+    "title": "The Indian Penal Code, 1860",
+    "summary": "Comprehensive penal law defining crimes and punishments.",
+    "keywords": ["crime", "punishment", "law"]
+  },
+  {
+    "title": "The Indian Succession Act, 1925",
+    "summary": "Governs succession and inheritance for non-Hindus.",
+    "keywords": ["succession", "inheritance", "will"]
+  },
+  {
+    "title": "The Industrial Disputes Act, 1947",
+    "summary": "Addresses conflicts between employers and workers.",
+    "keywords": ["industrial", "dispute", "labour"]
+  },
+  {
+    "title": "The Industrial Employment (Standing Orders) Act, 1946",
+    "summary": "Requires employers to define working conditions.",
+    "keywords": ["employment", "standing orders", "labour"]
+  },
+  {
+    "title": "The Industries (Development and Regulation) Act, 1951",
+    "summary": "Controls regulation and development of certain industries.",
+    "keywords": ["industry", "regulation", "development"]
+  },
+  {
+    "title": "The Information Technology Act, 2000",
+    "summary": "Provides legal recognition of electronic commerce and cybercrimes.",
+    "keywords": ["IT", "cybercrime", "electronic"]
+  },
+  {
+    "title": "The Insecticides Act, 1968",
+    "summary": "Regulates import and use of insecticides.",
+    "keywords": ["insecticides", "agriculture", "control"]
+  },
+  {
+    "title": "The Insurance Act, 1938",
+    "summary": "Regulates insurance companies and policies in India.",
+    "keywords": ["insurance", "policy", "regulation"]
+  },
+  {
+    "title": "The Insurance Regulatory and Development Authority Act, 1999",
+    "summary": "Establishes IRDAI to regulate insurance sector.",
+    "keywords": ["insurance", "IRDAI", "regulation"]
+  },
+  {
+    "title": "The Inter-State Migrant Workmen Act, 1979",
+    "summary": "Regulates employment of migrant workmen.",
+    "keywords": ["migrant", "labour", "regulation"]
+  },
+  {
+    "title": "The International Financial Services Centres Authority Act, 2019",
+    "summary": "Sets up authority to regulate financial services centers.",
+    "keywords": ["finance", "IFSC", "regulation"]
+  },
+  {
+    "title": "The Juvenile Justice Act, 2015",
+    "summary": "Deals with law relating to children in conflict with law.",
+    "keywords": ["juvenile", "child", "justice"]
+  },
+  {
+    "title": "The Labour Laws (Exemption from Furnishing Returns and Maintenance of Registers by Certain Establishments) Act, 1988",
+    "summary": "Exempts small establishments from certain labour law compliances.",
+    "keywords": ["labour", "exemption", "registers"]
+  },
+  {
+    "title": "The Legal Metrology Act, 2009",
+    "summary": "Regulates weights and measures used in trade.",
+    "keywords": ["metrology", "weights", "measures"]
+  },
+  {
+    "title": "The Legal Services Authorities Act, 1987",
+    "summary": "Provides free legal services to eligible persons.",
+    "keywords": ["legal aid", "services", "justice"]
+  },
+  {
+    "title": "The Limitation Act, 1963",
+    "summary": "Prescribes time limits for legal actions.",
+    "keywords": ["limitation", "time", "court"]
+  },
+  {
+    "title": "The Lokpal and Lokayuktas Act, 2013",
+    "summary": "Establishes bodies to investigate corruption in public offices.",
+    "keywords": ["Lokpal", "Lokayukta", "corruption"]
+  },
+  {
+    "title": "The Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+    "summary": "Mandates maintenance of parents and senior citizens.",
+    "keywords": ["maintenance", "senior citizens", "welfare"]
+  },
+  {
+    "title": "The Major Port Authorities Act, 2021",
+    "summary": "Regulates functioning and governance of major ports in India.",
+    "keywords": ["port", "major", "shipping"]
+  },
+  {
+    "title": "The Maternity Benefit Act, 1961",
+    "summary": "Regulates maternity benefits for female employees.",
+    "keywords": ["maternity", "leave", "benefit"]
+  },
+  {
+    "title": "The Medical Council Act, 1956",
+    "summary": "Regulates medical education and profession in India.",
+    "keywords": ["medical", "education", "council"]
+  },
+  {
+    "title": "The Medical Termination of Pregnancy Act, 1971",
+    "summary": "Regulates conditions under which abortion is permitted.",
+    "keywords": ["pregnancy", "abortion", "medical"]
+  },
+  {
+    "title": "The Mental Healthcare Act, 2017",
+    "summary": "Provides mental healthcare services and protects patient rights.",
+    "keywords": ["mental health", "treatment", "rights"]
+  },
+  {
+    "title": "The Merchant Shipping Act, 1958",
+    "summary": "Regulates merchant shipping and registration of Indian ships.",
+    "keywords": ["shipping", "merchant", "maritime"]
+  },
+  {
+    "title": "The Mines Act, 1952",
+    "summary": "Regulates the health, safety, and welfare of workers in mines.",
+    "keywords": ["mines", "safety", "workers"]
+  },
+  {
+    "title": "The Mines and Minerals (Development and Regulation) Act, 1957",
+    "summary": "Governs the mining sector and regulation of minerals.",
+    "keywords": ["mining", "minerals", "regulation"]
+  },
+  {
+    "title": "The Minimum Wages Act, 1948",
+    "summary": "Fixes minimum rates of wages in certain employments.",
+    "keywords": ["wages", "labour", "minimum"]
+  },
+  {
+    "title": "The Motor Transport Workers Act, 1961",
+    "summary": "Regulates conditions of employment in motor transport undertakings.",
+    "keywords": ["transport", "labour", "motor"]
+  },
+  {
+    "title": "The Motor Vehicles Act, 1988",
+    "summary": "Provides for regulation of motor vehicles and road traffic.",
+    "keywords": ["motor", "traffic", "vehicles"]
+  },
+  {
+    "title": "The Muslim Personal Law (Shariat) Application Act, 1937",
+    "summary": "Applies Muslim personal law to Muslims in certain matters.",
+    "keywords": ["Muslim", "personal law", "Shariat"]
+  },
+  {
+    "title": "The Narcotic Drugs and Psychotropic Substances Act, 1985",
+    "summary": "Prohibits production and trafficking of drugs and substances.",
+    "keywords": ["narcotics", "drugs", "prohibition"]
+  },
+  {
+    "title": "The National Commission for Minorities Act, 1992",
+    "summary": "Establishes a commission to protect rights of minorities.",
+    "keywords": ["minorities", "rights", "commission"]
+  },
+  {
+    "title": "The National Environment Tribunal Act, 1995",
+    "summary": "Provides for strict liability for damages from hazardous substances.",
+    "keywords": ["environment", "hazardous", "tribunal"]
+  },
+  {
+    "title": "The National Food Security Act, 2013",
+    "summary": "Provides for food and nutritional security to citizens.",
+    "keywords": ["food", "security", "nutrition"]
+  },
+  {
+    "title": "The National Green Tribunal Act, 2010",
+    "summary": "Establishes the National Green Tribunal for environment protection.",
+    "keywords": ["NGT", "environment", "tribunal"]
+  },
+  {
+    "title": "The National Highways Act, 1956",
+    "summary": "Provides for the development and maintenance of national highways.",
+    "keywords": ["highways", "roads", "transport"]
+  },
+  {
+    "title": "The National Investigation Agency Act, 2008",
+    "summary": "Establishes the NIA for investigation of terror-related offenses.",
+    "keywords": ["NIA", "terror", "investigation"]
+  },
+  {
+    "title": "The National Medical Commission Act, 2019",
+    "summary": "Replaces the Medical Council of India with NMC.",
+    "keywords": ["medical", "NMC", "regulation"]
+  },
+  {
+    "title": "The National Security Act, 1980",
+    "summary": "Empowers the state to detain individuals for national security.",
+    "keywords": ["security", "detention", "national"]
+  },
+  {
+    "title": "The Negotiable Instruments Act, 1881",
+    "summary": "Governs promissory notes, bills of exchange, and cheques.",
+    "keywords": ["cheque", "bank", "finance"]
+  },
+  {
+    "title": "The Notaries Act, 1952",
+    "summary": "Regulates the profession of notaries in India.",
+    "keywords": ["notary", "certification", "legal"]
+  },
+  {
+    "title": "The Oaths Act, 1969",
+    "summary": "Provides for administration of oaths and affirmations.",
+    "keywords": ["oath", "affirmation", "legal"]
+  },
+  {
+    "title": "The Official Languages Act, 1963",
+    "summary": "Provides for languages used in official purposes of the Union.",
+    "keywords": ["language", "official", "communication"]
+  },
+  {
+    "title": "The Official Secrets Act, 1923",
+    "summary": "Deals with spying, sedition and secrecy of information.",
+    "keywords": ["secrets", "national", "confidential"]
+  },
+  {
+    "title": "The Payment of Bonus Act, 1965",
+    "summary": "Provides for payment of bonus to employees.",
+    "keywords": ["bonus", "salary", "employees"]
+  },
+  {
+    "title": "The Payment of Gratuity Act, 1972",
+    "summary": "Provides for payment of gratuity to employees after service.",
+    "keywords": ["gratuity", "retirement", "employee"]
+  },
+  {
+    "title": "The Payment of Wages Act, 1936",
+    "summary": "Regulates payment of wages to certain classes of workers.",
+    "keywords": ["wages", "payment", "workers"]
+  },
+  {
+    "title": "The Pension Fund Regulatory and Development Authority Act, 2013",
+    "summary": "Establishes PFRDA to regulate pension funds.",
+    "keywords": ["pension", "fund", "regulation"]
+  },
+  {
+    "title": "The Petroleum Act, 1934",
+    "summary": "Regulates import, transport, and storage of petroleum.",
+    "keywords": ["petroleum", "oil", "fuel"]
+  },
+  {
+    "title": "The Petroleum and Natural Gas Regulatory Board Act, 2006",
+    "summary": "Establishes a regulatory board for petroleum and natural gas.",
+    "keywords": ["petroleum", "gas", "regulation"]
+  },
+  {
+    "title": "The Police Act, 1861",
+    "summary": "Defines the structure, roles, and duties of the police.",
+    "keywords": ["police", "law enforcement", "order"]
+  },
+  {
+    "title": "The Post Office Act, 1898",
+    "summary": "Regulates postal services in India.",
+    "keywords": ["postal", "services", "communication"]
+  },
+  {
+    "title": "The Prevention of Corruption Act, 1988",
+    "summary": "Deals with corruption in public administration.",
+    "keywords": ["corruption", "bribery", "offense"]
+  },
+  {
+    "title": "The Prevention of Cruelty to Animals Act, 1960",
+    "summary": "Prevents cruelty towards animals and promotes welfare.",
+    "keywords": ["animal", "welfare", "cruelty"]
+  },
+  {
+    "title": "The Prevention of Damage to Public Property Act, 1984",
+    "summary": "Deals with punishment for damage to public property.",
+    "keywords": ["property", "damage", "public"]
+  },
+  {
+    "title": "The Prevention of Food Adulteration Act, 1954",
+    "summary": "Prevents the sale of adulterated food.",
+    "keywords": ["food", "adulteration", "safety"]
+  },
+  {
+    "title": "The Prevention of Money Laundering Act, 2002",
+    "summary": "Prevents and controls money laundering in India.",
+    "keywords": ["money laundering", "finance", "offense"]
+  },
+  {
+    "title": "The Prevention of Terrorism Act, 2002 (POTA)",
+    "summary": "A repealed act that dealt with terrorism-related offenses.",
+    "keywords": ["terrorism", "POTA", "security"]
+  },
+  {
+    "title": "The Private Security Agencies Regulation Act, 2005",
+    "summary": "Regulates private security agencies.",
+    "keywords": ["security", "private", "regulation"]
+  },
+  {
+    "title": "The Probation of Offenders Act, 1958",
+    "summary": "Provides for release of offenders on probation under certain conditions.",
+    "keywords": ["probation", "offender", "release"]
+  },
+  {
+    "title": "The Prohibition of Child Marriage Act, 2006",
+    "summary": "Prohibits child marriages and punishes related offenses.",
+    "keywords": ["child marriage", "prohibition", "minor"]
+  },
+  {
+    "title": "The Prohibition of Employment as Manual Scavengers and Their Rehabilitation Act, 2013",
+    "summary": "Prohibits manual scavenging and provides for rehabilitation.",
+    "keywords": ["manual scavenging", "rehabilitation", "prohibition"]
+  },
+  {
+    "title": "The Protection of Children from Sexual Offences Act, 2012 (POCSO)",
+    "summary": "Protects children from sexual abuse and exploitation.",
+    "keywords": ["child", "abuse", "POCSO"]
+  },
+  {
+    "title": "The Protection of Civil Rights Act, 1955",
+    "summary": "Abolishes untouchability and punishes related offenses.",
+    "keywords": ["civil rights", "untouchability", "equality"]
+  },
+  {
+    "title": "The Protection of Human Rights Act, 1993",
+    "summary": "Establishes Human Rights Commissions and protects human rights.",
+    "keywords": ["human rights", "commission", "protection"]
+  },
+  {
+    "title": "The Protection of Women from Domestic Violence Act, 2005",
+    "summary": "Provides protection and remedies for women facing domestic violence.",
+    "keywords": ["women", "domestic violence", "protection"]
+  },
+  {
+    "title": "The Public Gambling Act, 1867",
+    "summary": "Prohibits public gambling and keeping of common gaming houses.",
+    "keywords": ["gambling", "gaming", "law"]
+  },
+  {
+    "title": "The Public Liability Insurance Act, 1991",
+    "summary": "Provides insurance for industries handling hazardous substances.",
+    "keywords": ["insurance", "hazardous", "liability"]
+  },
+  {
+    "title": "The Railways Act, 1989",
+    "summary": "Regulates Indian Railways operations and administration.",
+    "keywords": ["railway", "transport", "regulation"]
+  },
+  {
+    "title": "The Recovery of Debts Due to Banks and Financial Institutions Act, 1993",
+    "summary": "Enables fast recovery of debts by financial institutions.",
+    "keywords": ["debt", "recovery", "banks"]
+  },
+  {
+    "title": "The Registration Act, 1908",
+    "summary": "Provides for registration of documents relating to property.",
+    "keywords": ["registration", "property", "documents"]
+  },
+  {
+    "title": "The Representation of the People Act, 1950",
+    "summary": "Provides for allocation of seats and delimitation of constituencies for elections.",
+    "keywords": ["elections", "representation", "constituencies"]
+  },
+  {
+    "title": "The Representation of the People Act, 1951",
+    "summary": "Deals with the conduct of elections and election disputes.",
+    "keywords": ["election", "candidates", "parliament"]
+  },
+  {
+    "title": "The Research and Development Cess Act, 1986",
+    "summary": "Levy and collection of cess on technology imports for R&D.",
+    "keywords": ["research", "development", "cess"]
+  },
+  {
+    "title": "The Reserve Bank of India Act, 1934",
+    "summary": "Establishes the Reserve Bank of India and regulates banking.",
+    "keywords": ["RBI", "banking", "finance"]
+  },
+  {
+    "title": "The Right of Children to Free and Compulsory Education Act, 2009",
+    "summary": "Ensures free and compulsory education to children aged 6 to 14.",
+    "keywords": ["education", "children", "RTE"]
+  },
+  {
+    "title": "The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013",
+    "summary": "Provides fair compensation for land acquisition and resettlement.",
+    "keywords": ["land acquisition", "compensation", "rehabilitation"]
+  },
+  {
+    "title": "The Right to Information Act, 2005",
+    "summary": "Empowers citizens to access information from public authorities.",
+    "keywords": ["RTI", "transparency", "information"]
+  },
+  {
+    "title": "The Sale of Goods Act, 1930",
+    "summary": "Governs contracts relating to sale of goods.",
+    "keywords": ["sale", "goods", "contract"]
+  },
+  {
+    "title": "The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989",
+    "summary": "Prevents atrocities against SC/ST communities.",
+    "keywords": ["SC/ST", "atrocities", "protection"]
+  },
+  {
+    "title": "The Securities and Exchange Board of India Act, 1992",
+    "summary": "Establishes SEBI to regulate securities markets.",
+    "keywords": ["SEBI", "securities", "stock market"]
+  },
+  {
+    "title": "The Securities Contracts (Regulation) Act, 1956",
+    "summary": "Regulates stock exchanges and contracts in securities.",
+    "keywords": ["stock", "exchange", "contracts"]
+  },
+  {
+    "title": "The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013",
+    "summary": "Prevents and addresses sexual harassment at workplace.",
+    "keywords": ["sexual harassment", "women", "workplace"]
+  },
+  {
+    "title": "The Sick Industrial Companies (Special Provisions) Act, 1985",
+    "summary": "Provides for revival of sick industrial companies.",
+    "keywords": ["industry", "revival", "sick"]
+  },
+  {
+    "title": "The Societies Registration Act, 1860",
+    "summary": "Provides for registration of literary, scientific, and charitable societies.",
+    "keywords": ["society", "registration", "nonprofit"]
+  },
+  {
+    "title": "The Special Economic Zones Act, 2005",
+    "summary": "Provides for establishment and regulation of SEZs.",
+    "keywords": ["SEZ", "trade", "economic"]
+  },
+  {
+    "title": "The Special Marriage Act, 1954",
+    "summary": "Provides for civil marriage between persons of different religions.",
+    "keywords": ["marriage", "civil", "interfaith"]
+  },
+  {
+    "title": "The Specific Relief Act, 1963",
+    "summary": "Provides remedies for persons whose civil or contractual rights are violated.",
+    "keywords": ["relief", "contract", "remedies"]
+  },
+  {
+    "title": "The Stamp Act, 1899",
+    "summary": "Provides for the imposition of stamp duty on instruments.",
+    "keywords": ["stamp", "duty", "documents"]
+  },
+  {
+    "title": "The State Financial Corporations Act, 1951",
+    "summary": "Establishes financial corporations to assist industrial development.",
+    "keywords": ["finance", "corporation", "development"]
+  },
+  {
+    "title": "The Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014",
+    "summary": "Protects rights and regulates street vending.",
+    "keywords": ["vendors", "livelihood", "street"]
+  },
+  {
+    "title": "The Sukanya Samriddhi Yojana Rules, 2016",
+    "summary": "Provides for savings scheme for girl children.",
+    "keywords": ["savings", "girl child", "scheme"]
+  },
+  {
+    "title": "The Surrogacy (Regulation) Act, 2021",
+    "summary": "Regulates surrogacy and protects rights of surrogate mothers.",
+    "keywords": ["surrogacy", "reproduction", "regulation"]
+  },
+  {
+    "title": "The Telecom Regulatory Authority of India Act, 1997",
+    "summary": "Establishes TRAI to regulate telecom services.",
+    "keywords": ["telecom", "TRAI", "regulation"]
+  },
+  {
+    "title": "The Telegraph Act, 1885",
+    "summary": "Regulates telegraphy and communication systems in India.",
+    "keywords": ["telegraph", "communication", "government"]
+  },
+  {
+    "title": "The Trade Marks Act, 1999",
+    "summary": "Provides for registration and protection of trademarks.",
+    "keywords": ["trademark", "intellectual property", "brand"]
+  },
+  {
+    "title": "The Trade Unions Act, 1926",
+    "summary": "Regulates registration and rights of trade unions.",
+    "keywords": ["trade union", "workers", "labour"]
+  },
+  {
+    "title": "The Transfer of Property Act, 1882",
+    "summary": "Governs transfer of property between living persons.",
+    "keywords": ["property", "transfer", "ownership"]
+  },
+  {
+    "title": "The Transgender Persons (Protection of Rights) Act, 2019",
+    "summary": "Protects rights and welfare of transgender persons.",
+    "keywords": ["transgender", "rights", "equality"]
+  },
+  {
+    "title": "The Tripura Land Revenue and Land Reforms Act, 1960",
+    "summary": "Deals with land revenue and reforms in Tripura.",
+    "keywords": ["land", "Tripura", "reforms"]
+  },
+  {
+    "title": "The Unlawful Activities (Prevention) Act, 1967",
+    "summary": "Prevents unlawful activities and terrorism.",
+    "keywords": ["terrorism", "UAPA", "security"]
+  },
+  {
+    "title": "The Urban Land (Ceiling and Regulation) Act, 1976",
+    "summary": "Regulates holding of urban land and its ceiling.",
+    "keywords": ["urban land", "ceiling", "regulation"]
+  },
+  {
+    "title": "The Wakf Act, 1995",
+    "summary": "Regulates Muslim religious endowments called Wakfs.",
+    "keywords": ["wakf", "endowment", "Muslim"]
+  },
+  {
+    "title": "The Warehousing (Development and Regulation) Act, 2007",
+    "summary": "Regulates warehouses and negotiable warehouse receipts.",
+    "keywords": ["warehouse", "storage", "agriculture"]
+  },
+  {
+    "title": "The Water (Prevention and Control of Pollution) Act, 1974",
+    "summary": "Prevents and controls water pollution.",
+    "keywords": ["water", "pollution", "environment"]
+  },
+  {
+    "title": "The Weights and Measures Act, 1976",
+    "summary": "Standardizes weights and measures for trade.",
+    "keywords": ["weights", "measures", "standard"]
+  },
+  {
+    "title": "The Whistle Blowers Protection Act, 2014",
+    "summary": "Provides protection to individuals who expose corruption.",
+    "keywords": ["whistleblower", "corruption", "protection"]
+  },
+  {
+    "title": "The Wild Life (Protection) Act, 1972",
+    "summary": "Protects wildlife, forests, and biodiversity.",
+    "keywords": ["wildlife", "conservation", "forest"]
+  },
+  {
+    "title": "The Working Journalists and Other Newspaper Employees (Conditions of Service) and Miscellaneous Provisions Act, 1955",
+    "summary": "Regulates employment conditions of journalists.",
+    "keywords": ["journalists", "media", "employment"]
+  },
+  {
+    "title": "The Young Persons (Harmful Publications) Act, 1956",
+    "summary": "Prohibits harmful publications to young persons.",
+    "keywords": ["young", "publications", "harmful"]
+  },
+  {
+    "title": "The Jammu and Kashmir Reorganisation Act, 2019",
+    "summary": "Reorganizes the state of Jammu and Kashmir into two UTs.",
+    "keywords": ["Jammu", "Kashmir", "reorganisation"]
+  },
+  {
+    "title": "The Goods and Services Tax (GST) Act, 2017",
+    "summary": "Implements a uniform indirect tax system across India.",
+    "keywords": ["GST", "tax", "goods and services"]
+  },
+  {
+    "title": "The Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016",
+    "summary": "Provides legal backing for the Aadhaar number.",
+    "keywords": ["Aadhaar", "identity", "subsidy"]
+  },
+  {
+    "title": "The Fugitive Economic Offenders Act, 2018",
+    "summary": "Allows seizure of properties of fugitive economic offenders.",
+    "keywords": ["economic offender", "fugitive", "seizure"]
+  },
+  {
+    "title": "The Banning of Unregulated Deposit Schemes Act, 2019",
+    "summary": "Bans unregulated deposit schemes to protect investors.",
+    "keywords": ["deposit", "fraud", "investment"]
+  },
+  {
+    "title": "The Farmers' Produce Trade and Commerce (Promotion and Facilitation) Act, 2020",
+    "summary": "Allows farmers to sell produce outside mandis.",
+    "keywords": ["farmers", "trade", "mandi"]
+  },
+  {
+    "title": "The Farmers (Empowerment and Protection) Agreement on Price Assurance and Farm Services Act, 2020",
+    "summary": "Provides framework for contract farming.",
+    "keywords": ["farming", "agreement", "price assurance"]
+  },
+  {
+    "title": "The Essential Defence Services Act, 2021",
+    "summary": "Ensures maintenance of essential defence services.",
+    "keywords": ["defence", "services", "strike"]
+  },
+  {
+    "title": "The Ancient Monuments and Archaeological Sites and Remains Act, 1958",
+    "summary": "Provides for the preservation of ancient and historical monuments and archaeological sites.",
+    "keywords": ["monuments", "archaeology", "heritage"]
+  },
+  {
+    "title": "The Apprentices Act, 1961",
+    "summary": "Regulates training of apprentices in industry and trades.",
+    "keywords": ["apprentice", "training", "industry"]
+  },
+  {
+    "title": "The Architects Act, 1972",
+    "summary": "Provides for registration of architects and professional conduct.",
+    "keywords": ["architects", "registration", "profession"]
+  },
+  {
+    "title": "The Banking Companies (Acquisition and Transfer of Undertakings) Act, 1970",
+    "summary": "Deals with nationalisation of major banks.",
+    "keywords": ["banking", "nationalisation", "undertaking"]
+  },
+  {
+    "title": "The Beedi and Cigar Workers (Conditions of Employment) Act, 1966",
+    "summary": "Regulates the employment conditions of beedi and cigar workers.",
+    "keywords": ["beedi", "cigar", "workers"]
+  },
+  {
+    "title": "The Benami Transactions (Prohibition) Act, 1988",
+    "summary": "Prohibits benami property transactions and provides for confiscation.",
+    "keywords": ["benami", "property", "prohibition"]
+  },
+  {
+    "title": "The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015",
+    "summary": "Targets undisclosed foreign income and assets held by Indian residents.",
+    "keywords": ["black money", "foreign income", "assets"]
+  },
+  {
+    "title": "The Boilers Act, 1923",
+    "summary": "Provides for safety and registration of boilers.",
+    "keywords": ["boilers", "safety", "registration"]
+  },
+  {
+    "title": "The Cable Television Networks (Regulation) Act, 1995",
+    "summary": "Regulates the operation of cable television networks in India.",
+    "keywords": ["cable TV", "broadcast", "media"]
+  },
+  {
+    "title": "The Census Act, 1948",
+    "summary": "Provides for the conduct of population census in India.",
+    "keywords": ["census", "population", "data"]
+  },
+  {
+    "title": "The Central Excise Act, 1944",
+    "summary": "Levy and collection of excise duties on goods manufactured in India.",
+    "keywords": ["excise", "tax", "manufacture"]
+  },
+  {
+    "title": "The Central Vigilance Commission Act, 2003",
+    "summary": "Establishes CVC to combat corruption in central government institutions.",
+    "keywords": ["CVC", "vigilance", "corruption"]
+  },
+  {
+    "title": "The Cinematograph Act, 1952",
+    "summary": "Regulates certification of films for exhibition.",
+    "keywords": ["films", "censorship", "cinema"]
+  },
+  {
+    "title": "The Clinical Establishments (Registration and Regulation) Act, 2010",
+    "summary": "Provides for registration and regulation of clinical establishments.",
+    "keywords": ["clinical", "healthcare", "registration"]
+  },
+  {
+    "title": "The Co-operative Societies Act, 1912",
+    "summary": "Regulates the formation and functioning of cooperative societies.",
+    "keywords": ["cooperative", "society", "membership"]
+  },
+  {
+    "title": "The Collection of Statistics Act, 2008",
+    "summary": "Facilitates collection of statistics on economic, demographic and social matters.",
+    "keywords": ["statistics", "data", "collection"]
+  },
+  {
+    "title": "The Commercial Courts Act, 2015",
+    "summary": "Establishes commercial courts for speedy resolution of commercial disputes.",
+    "keywords": ["commercial", "court", "dispute"]
+  },
+  {
+    "title": "The Competition Act, 2002",
+    "summary": "Promotes competition and prevents anti-competitive practices.",
+    "keywords": ["competition", "market", "monopoly"]
+  },
+  {
+    "title": "The Compulsory Deposit Scheme Act, 1974",
+    "summary": "Introduced compulsory savings by individuals.",
+    "keywords": ["deposit", "scheme", "savings"]
+  },
+  {
+    "title": "The Consumer Protection Act, 1986",
+    "summary": "Protects the rights of consumers against unfair trade practices.",
+    "keywords": ["consumer", "rights", "protection"]
+  },
+  {
+    "title": "The Contempt of Courts Act, 1971",
+    "summary": "Defines and limits powers of courts to punish for contempt.",
+    "keywords": ["contempt", "court", "justice"]
+  },
+  {
+    "title": "The Contingency Fund of India Act, 1950",
+    "summary": "Provides for unforeseen government expenditures.",
+    "keywords": ["contingency", "fund", "emergency"]
+  },
+  {
+    "title": "The Copyright Act, 1957",
+    "summary": "Provides for protection of literary and artistic works.",
+    "keywords": ["copyright", "intellectual property", "literary"]
+  },
+  {
+    "title": "The Court Fees Act, 1870",
+    "summary": "Specifies court fees payable in civil and criminal cases.",
+    "keywords": ["court", "fees", "legal"]
+  },
+  {
+    "title": "The Customs Act, 1962",
+    "summary": "Regulates import and export duties and enforcement.",
+    "keywords": ["customs", "import", "export"]
+  },
+  {
+    "title": "The Dam Safety Act, 2021",
+    "summary": "Provides for surveillance, inspection, and maintenance of dams.",
+    "keywords": ["dam", "safety", "maintenance"]
+  },
+  {
+    "title": "The Dangerous Machines (Regulation) Act, 1983",
+    "summary": "Regulates the use and safety of dangerous machines.",
+    "keywords": ["machines", "safety", "regulation"]
+  },
+  {
+    "title": "The Delhi Rent Control Act, 1958",
+    "summary": "Regulates the renting of properties in Delhi.",
+    "keywords": ["rent", "Delhi", "property"]
+  },
+  {
+    "title": "The Depositories Act, 1996",
+    "summary": "Regulates depositories and electronic record of securities.",
+    "keywords": ["depository", "securities", "stock"]
+  },
+  {
+    "title": "The Designs Act, 2000",
+    "summary": "Provides for protection of industrial designs.",
+    "keywords": ["design", "intellectual property", "innovation"]
+  },
+  {
+    "title": "The Disaster Management Act, 2005",
+    "summary": "Establishes authority for disaster risk reduction and response.",
+    "keywords": ["disaster", "management", "NDMA"]
+  },
+  {
+    "title": "The Dock Workers (Regulation of Employment) Act, 1948",
+    "summary": "Regulates employment and conditions of dock workers.",
+    "keywords": ["dock", "workers", "employment"]
+  },
+  {
+    "title": "The Dowry Prohibition Act, 1961",
+    "summary": "Prohibits the giving and taking of dowry.",
+    "keywords": ["dowry", "marriage", "women"]
+  },
+  {
+    "title": "The Drugs and Cosmetics Act, 1940",
+    "summary": "Regulates the import, manufacture, and sale of drugs and cosmetics.",
+    "keywords": ["drugs", "cosmetics", "regulation"]
+  },
+  {
+    "title": "The Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954",
+    "summary": "Prohibits misleading advertisements of drugs.",
+    "keywords": ["advertising", "drugs", "magic remedies"]
+  },
+  {
+    "title": "The Easements Act, 1882",
+    "summary": "Deals with rights relating to use of land by others.",
+    "keywords": ["easement", "property", "land"]
+  },
+  {
+    "title": "The Electricity Act, 2003",
+    "summary": "Consolidates laws relating to generation, distribution, and transmission of electricity.",
+    "keywords": ["electricity", "energy", "distribution"]
+  },
+  {
+    "title": "The Emblems and Names (Prevention of Improper Use) Act, 1950",
+    "summary": "Prohibits improper use of national emblems and names.",
+    "keywords": ["emblem", "misuse", "symbol"]
+  },
+  {
+    "title": "The Employers’ Liability Act, 1938",
+    "summary": "Limits the liability of employers in certain cases.",
+    "keywords": ["employer", "liability", "employment"]
+  },
+  {
+    "title": "The Employment Exchanges (Compulsory Notification of Vacancies) Act, 1959",
+    "summary": "Mandates reporting of vacancies to employment exchanges.",
+    "keywords": ["employment", "vacancy", "notification"]
+  },
+  {
+    "title": "The Enemy Property Act, 1968",
+    "summary": "Deals with properties left behind by people who migrated to enemy countries.",
+    "keywords": ["enemy", "property", "custodian"]
+  },
+  {
+    "title": "The Environment (Protection) Act, 1986",
+    "summary": "Provides for environmental protection and coordination.",
+    "keywords": ["environment", "pollution", "protection"]
+  },
+  {
+    "title": "The Epidemic Diseases Act, 1897",
+    "summary": "Provides powers to contain epidemic outbreaks.",
+    "keywords": ["epidemic", "disease", "containment"]
+  },
+  {
+    "title": "The Essential Services Maintenance Act, 1968",
+    "summary": "Ensures uninterrupted delivery of essential services.",
+    "keywords": ["essential", "services", "maintenance"]
+  },
+  {
+    "title": "The Explosives Act, 1884",
+    "summary": "Regulates manufacture and use of explosives.",
+    "keywords": ["explosives", "regulation", "safety"]
+  },
+  {
+    "title": "The Factories Act, 1948",
+    "summary": "Regulates labor welfare, safety, and working hours in factories.",
+    "keywords": ["factories", "labor", "safety"]
+  },
+  {
+    "title": "The Family Courts Act, 1984",
+    "summary": "Establishes family courts for resolving family disputes.",
+    "keywords": ["family", "court", "disputes"]
+  },
+  {
+    "title": "The Fertiliser (Control) Order, 1985",
+    "summary": "Regulates manufacture and distribution of fertilizers.",
+    "keywords": ["fertilizer", "agriculture", "control"]
+  },
+  {
+    "title": "The Foreign Contribution (Regulation) Act, 2010",
+    "summary": "Regulates acceptance and utilization of foreign contribution by individuals, associations or companies.",
+    "keywords": ["foreign", "contribution", "regulation"]
+  },
+  {
+    "title": "The Foreign Exchange Management Act, 1999",
+    "summary": "Facilitates external trade and payments and promotes orderly development of the foreign exchange market in India.",
+    "keywords": ["foreign exchange", "FEMA", "currency"]
+  },
+  {
+    "title": "The Foreign Trade (Development and Regulation) Act, 1992",
+    "summary": "Provides for development and regulation of foreign trade.",
+    "keywords": ["foreign trade", "import", "export"]
+  },
+  {
+    "title": "The Forest Rights Act, 2006",
+    "summary": "Recognizes rights of forest-dwelling tribal communities and other traditional forest dwellers.",
+    "keywords": ["forest", "tribal", "rights"]
+  },
+  {
+    "title": "The Freedom of Information Act, 2002",
+    "summary": "Provides for freedom to access information held by public authorities (replaced by RTI Act).",
+    "keywords": ["freedom", "information", "access"]
+  },
+  {
+    "title": "The Fugitive Economic Offenders Act, 2018",
+    "summary": "Allows for confiscation of properties of economic offenders who flee the country.",
+    "keywords": ["fugitive", "economic", "offender"]
+  },
+  {
+    "title": "The Gas Cylinders Rules, 2016",
+    "summary": "Regulates possession, use, and transport of gas cylinders.",
+    "keywords": ["gas", "cylinder", "safety"]
+  },
+  {
+    "title": "The General Clauses Act, 1897",
+    "summary": "Defines legal terms commonly used in Indian laws.",
+    "keywords": ["definition", "clauses", "interpretation"]
+  },
+  {
+    "title": "The Geographical Indications of Goods (Registration and Protection) Act, 1999",
+    "summary": "Provides protection for geographical indications related to goods.",
+    "keywords": ["GI", "indications", "goods"]
+  },
+  {
+    "title": "The Government Savings Promotion Act, 1873",
+    "summary": "Provides rules for various small savings schemes.",
+    "keywords": ["savings", "schemes", "government"]
+  },
+  {
+    "title": "The Gram Nyayalayas Act, 2008",
+    "summary": "Establishes village-level courts for speedy and affordable justice.",
+    "keywords": ["village court", "nyayalaya", "justice"]
+  },
+  {
+    "title": "The Guardian and Wards Act, 1890",
+    "summary": "Deals with appointment and rights of guardians of minors.",
+    "keywords": ["guardian", "ward", "minor"]
+  },
+  {
+    "title": "The Hindu Adoptions and Maintenance Act, 1956",
+    "summary": "Provides for legal adoption and maintenance under Hindu law.",
+    "keywords": ["adoption", "maintenance", "Hindu"]
+  },
+  {
+    "title": "The Hindu Marriage Act, 1955",
+    "summary": "Governs marriage among Hindus, including conditions and dissolution.",
+    "keywords": ["marriage", "divorce", "Hindu"]
+  },
+  {
+    "title": "The Hindu Minority and Guardianship Act, 1956",
+    "summary": "Provides for guardianship of Hindu minors.",
+    "keywords": ["minor", "guardian", "Hindu"]
+  },
+  {
+    "title": "The Hindu Succession Act, 1956",
+    "summary": "Governs inheritance and succession among Hindus.",
+    "keywords": ["succession", "inheritance", "Hindu"]
+  },
+  {
+    "title": "The Hire-Purchase Act, 1972",
+    "summary": "Regulates hire-purchase agreements.",
+    "keywords": ["hire-purchase", "agreement", "finance"]
+  },
+  {
+    "title": "The Identification of Prisoners Act, 1920",
+    "summary": "Authorizes taking of measurements of convicted persons.",
+    "keywords": ["prisoners", "identification", "measurements"]
+  },
+  {
+    "title": "The Immoral Traffic (Prevention) Act, 1956",
+    "summary": "Aims to combat trafficking and sexual exploitation for commercial purposes.",
+    "keywords": ["trafficking", "prostitution", "immoral"]
+  },
+  {
+    "title": "The Indecent Representation of Women (Prohibition) Act, 1986",
+    "summary": "Prohibits indecent representation of women through advertisements or publications.",
+    "keywords": ["indecent", "representation", "women"]
+  },
+  {
+    "title": "The Indian Carriage of Goods by Sea Act, 1925",
+    "summary": "Regulates rights and responsibilities under maritime carriage.",
+    "keywords": ["carriage", "sea", "goods"]
+  },
+  {
+    "title": "The Indian Christian Marriage Act, 1872",
+    "summary": "Governs marriage among Indian Christians.",
+    "keywords": ["Christian", "marriage", "religious"]
+  },
+  {
+    "title": "The Indian Forest Act, 1927",
+    "summary": "Regulates use of forest resources and conservation.",
+    "keywords": ["forest", "conservation", "timber"]
+  },
+  {
+    "title": "The Indian Medical Council Act, 1956",
+    "summary": "Established the Medical Council of India for regulating medical education.",
+    "keywords": ["medical", "council", "education"]
+  },
+  {
+    "title": "The Indian Penal Code, 1860",
+    "summary": "Comprehensive criminal code defining offenses and punishments.",
+    "keywords": ["penal", "criminal", "offense"]
+  },
+  {
+    "title": "The Indian Succession Act, 1925",
+    "summary": "Governs inheritance for persons other than Hindus or Muslims.",
+    "keywords": ["succession", "inheritance", "will"]
+  },
+  {
+    "title": "The Industrial Development and Regulation Act, 1951",
+    "summary": "Controls and regulates industries in India.",
+    "keywords": ["industry", "development", "regulation"]
+  },
+  {
+    "title": "The Industrial Disputes Act, 1947",
+    "summary": "Provides for investigation and settlement of industrial disputes.",
+    "keywords": ["disputes", "industry", "labour"]
+  },
+  {
+    "title": "The Industrial Employment (Standing Orders) Act, 1946",
+    "summary": "Requires employers to define employment conditions.",
+    "keywords": ["employment", "standing orders", "rules"]
+  },
+  {
+    "title": "The Information Technology Act, 2000",
+    "summary": "Provides legal recognition for electronic commerce and cybercrime.",
+    "keywords": ["IT", "cybercrime", "e-commerce"]
+  },
+  {
+    "title": "The Insecticides Act, 1968",
+    "summary": "Regulates import, manufacture, sale and use of insecticides.",
+    "keywords": ["insecticide", "pesticide", "agriculture"]
+  },
+  {
+    "title": "The Insolvency and Bankruptcy Code, 2016",
+    "summary": "Consolidates laws relating to insolvency for individuals and companies.",
+    "keywords": ["insolvency", "bankruptcy", "code"]
+  },
+  {
+    "title": "The Insurance Act, 1938",
+    "summary": "Regulates insurance business in India.",
+    "keywords": ["insurance", "business", "policy"]
+  },
+  {
+    "title": "The Inter-State Migrant Workmen Act, 1979",
+    "summary": "Protects migrant workers employed in other states.",
+    "keywords": ["migrant", "workmen", "interstate"]
+  },
+  {
+    "title": "The Juvenile Justice (Care and Protection of Children) Act, 2015",
+    "summary": "Provides for protection, treatment, and rehabilitation of children.",
+    "keywords": ["juvenile", "justice", "children"]
+  },
+  {
+    "title": "The Labour Laws (Exemption from Furnishing Returns) Act, 1988",
+    "summary": "Exempts small establishments from filing returns under certain labour laws.",
+    "keywords": ["labour", "exemption", "returns"]
+  },
+  {
+    "title": "The Legal Metrology Act, 2009",
+    "summary": "Standardizes weights and measures and regulates their trade.",
+    "keywords": ["metrology", "weights", "measures"]
+  },
+  {
+    "title": "The Legal Services Authorities Act, 1987",
+    "summary": "Establishes legal aid and Lok Adalats for dispute resolution.",
+    "keywords": ["legal aid", "Lok Adalat", "justice"]
+  },
+  {
+    "title": "The Limitation Act, 1963",
+    "summary": "Prescribes the time limit for filing suits and appeals.",
+    "keywords": ["limitation", "suit", "appeal"]
+  },
+  {
+    "title": "The Lokpal and Lokayuktas Act, 2013",
+    "summary": "Provides for establishment of Lokpal at the central and Lokayuktas at the state level.",
+    "keywords": ["Lokpal", "corruption", "ombudsman"]
+  },
+  {
+    "title": "The Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+    "summary": "Ensures care and protection of elderly parents.",
+    "keywords": ["senior citizens", "parents", "welfare"]
+  },
+  {
+    "title": "The Maternity Benefit Act, 1961",
+    "summary": "Regulates employment of women during maternity.",
+    "keywords": ["maternity", "benefit", "women"]
+  },
+  {
+    "title": "The Medical Termination of Pregnancy Act, 1971",
+    "summary": "Provides legal grounds and procedures for abortion.",
+    "keywords": ["pregnancy", "abortion", "termination"]
+  },
+  {
+    "title": "The Mental Healthcare Act, 2017",
+    "summary": "Ensures rights and access to mental healthcare.",
+    "keywords": ["mental health", "treatment", "rights"]
+  },
+  {
+    "title": "The Merchant Shipping Act, 1958",
+    "summary": "Regulates shipping, seamen and vessels in India.",
+    "keywords": ["shipping", "seamen", "vessels"]
+  },
+  {
+    "title": "The Mines Act, 1952",
+    "summary": "Ensures safety and welfare of mine workers.",
+    "keywords": ["mines", "safety", "labour"]
+  },
+  {
+    "title": "The Mines and Minerals (Development and Regulation) Act, 1957",
+    "summary": "Regulates development and mining of minerals.",
+    "keywords": ["mining", "minerals", "regulation"]
+  },
+  {
+    "title": "The Minimum Wages Act, 1948",
+    "summary": "Ensures minimum wages for workers across sectors.",
+    "keywords": ["wages", "minimum", "workers"]
+  },
+  {
+    "title": "The Minority Educational Institutions Act, 2004",
+    "summary": "Protects rights of minority communities to establish and administer educational institutions.",
+    "keywords": ["minority", "education", "institutions"]
+  },
+  {
+    "title": "The Monopolies and Restrictive Trade Practices Act, 1969",
+    "summary": "Aimed at preventing concentration of economic power and monopolistic practices.",
+    "keywords": ["monopoly", "restrictive", "trade"]
+  },
+  {
+    "title": "The Motor Vehicles Act, 1988",
+    "summary": "Regulates all aspects of road transport vehicles and traffic laws.",
+    "keywords": ["motor", "vehicles", "traffic"]
+  },
+  {
+    "title": "The Muslim Personal Law (Shariat) Application Act, 1937",
+    "summary": "Applies Muslim personal law to Muslims in India.",
+    "keywords": ["Muslim", "personal law", "Shariat"]
+  },
+  {
+    "title": "The Narcotic Drugs and Psychotropic Substances Act, 1985",
+    "summary": "Regulates control and operations relating to narcotic drugs and psychotropic substances.",
+    "keywords": ["narcotic", "drugs", "substances"]
+  },
+  {
+    "title": "The National Commission for Minority Educational Institutions Act, 2004",
+    "summary": "Establishes a commission to protect minority educational rights.",
+    "keywords": ["minority", "education", "commission"]
+  },
+  {
+    "title": "The National Environment Tribunal Act, 1995",
+    "summary": "Provides for strict liability for damages from hazardous substances.",
+    "keywords": ["environment", "tribunal", "hazardous"]
+  },
+  {
+    "title": "The National Green Tribunal Act, 2010",
+    "summary": "Establishes the NGT for effective environmental protection and conservation.",
+    "keywords": ["NGT", "environment", "green"]
+  },
+  {
+    "title": "The National Investigation Agency Act, 2008",
+    "summary": "Establishes NIA to investigate terror-related crimes.",
+    "keywords": ["NIA", "investigation", "terror"]
+  },
+  {
+    "title": "The National Legal Services Authority Act, 1987",
+    "summary": "Establishes a nationwide network for free legal aid.",
+    "keywords": ["legal aid", "NALSA", "justice"]
+  },
+  {
+    "title": "The National Medical Commission Act, 2019",
+    "summary": "Replaces the MCI to regulate medical education and practice.",
+    "keywords": ["medical", "NMC", "education"]
+  },
+  {
+    "title": "The National Rural Employment Guarantee Act, 2005",
+    "summary": "Guarantees rural employment through manual work programs.",
+    "keywords": ["employment", "rural", "guarantee"]
+  },
+  {
+    "title": "The National Security Act, 1980",
+    "summary": "Allows preventive detention in certain cases affecting national security.",
+    "keywords": ["security", "preventive", "detention"]
+  },
+  {
+    "title": "The Negotiable Instruments Act, 1881",
+    "summary": "Deals with promissory notes, bills of exchange and cheques.",
+    "keywords": ["cheque", "promissory", "negotiable"]
+  },
+  {
+    "title": "The Notaries Act, 1952",
+    "summary": "Regulates the practice of notaries.",
+    "keywords": ["notary", "authentication", "document"]
+  },
+  {
+    "title": "The Oaths Act, 1969",
+    "summary": "Deals with administration of oaths and affirmations.",
+    "keywords": ["oath", "affirmation", "court"]
+  },
+  {
+    "title": "The Official Languages Act, 1963",
+    "summary": "Provides for languages used in government and communication.",
+    "keywords": ["language", "official", "Hindi"]
+  },
+  {
+    "title": "The Partnership Act, 1932",
+    "summary": "Defines partnership and rules for partners.",
+    "keywords": ["partnership", "business", "partners"]
+  },
+  {
+    "title": "The Passports Act, 1967",
+    "summary": "Regulates issuance of passports and travel documents.",
+    "keywords": ["passport", "travel", "visa"]
+  },
+  {
+    "title": "The Patents Act, 1970",
+    "summary": "Provides for patenting of inventions in India.",
+    "keywords": ["patent", "invention", "intellectual property"]
+  },
+  {
+    "title": "The Payment of Bonus Act, 1965",
+    "summary": "Provides for payment of bonus to employees based on profits.",
+    "keywords": ["bonus", "payment", "employee"]
+  },
+  {
+    "title": "The Payment of Gratuity Act, 1972",
+    "summary": "Provides for payment of gratuity to employees on retirement.",
+    "keywords": ["gratuity", "employee", "retirement"]
+  },
+  {
+    "title": "The Payment of Wages Act, 1936",
+    "summary": "Regulates payment of wages to certain classes of workers.",
+    "keywords": ["wages", "payment", "labour"]
+  },
+  {
+    "title": "The Persons with Disabilities Act, 2016",
+    "summary": "Protects rights and dignity of persons with disabilities.",
+    "keywords": ["disabilities", "rights", "equality"]
+  },
+  {
+    "title": "The Petroleum Act, 1934",
+    "summary": "Regulates import, transport, and storage of petroleum.",
+    "keywords": ["petroleum", "fuel", "storage"]
+  },
+  {
+    "title": "The Police Act, 1861",
+    "summary": "Regulates police forces and their duties.",
+    "keywords": ["police", "law enforcement", "duties"]
+  },
+  {
+    "title": "The Post Office Act, 1898",
+    "summary": "Regulates postal services in India.",
+    "keywords": ["post", "mail", "postal"]
+  },
+  {
+    "title": "The Power of Attorney Act, 1882",
+    "summary": "Defines and regulates powers of attorney.",
+    "keywords": ["power of attorney", "agent", "authorization"]
+  },
+  {
+    "title": "The Prevention of Corruption Act, 1988",
+    "summary": "Prevents corruption by public officials.",
+    "keywords": ["corruption", "bribe", "official"]
+  },
+  {
+    "title": "The Prevention of Cruelty to Animals Act, 1960",
+    "summary": "Prevents cruelty towards animals and promotes welfare.",
+    "keywords": ["animals", "cruelty", "welfare"]
+  },
+  {
+    "title": "The Prevention of Food Adulteration Act, 1954",
+    "summary": "Protects public from unsafe and adulterated food.",
+    "keywords": ["food", "adulteration", "safety"]
+  },
+  {
+    "title": "The Prevention of Money Laundering Act, 2002",
+    "summary": "Prevents and controls money laundering activities.",
+    "keywords": ["money laundering", "finance", "black money"]
+  },
+  {
+    "title": "The Prevention of Terrorism Act, 2002",
+    "summary": "Deals with terrorism-related offenses and investigations.",
+    "keywords": ["terrorism", "POTA", "security"]
+  },
+  {
+    "title": "The Private Security Agencies (Regulation) Act, 2005",
+    "summary": "Regulates private security agencies in India.",
+    "keywords": ["security", "private", "agency"]
+  },
+  {
+    "title": "The Prize Chits and Money Circulation Schemes (Banning) Act, 1978",
+    "summary": "Bans fraudulent money circulation and pyramid schemes.",
+    "keywords": ["money", "chit", "scheme"]
+  },
+  {
+    "title": "The Probation of Offenders Act, 1958",
+    "summary": "Provides for release of offenders on probation.",
+    "keywords": ["probation", "offender", "rehabilitation"]
+  },
+  {
+    "title": "The Prohibition of Child Marriage Act, 2006",
+    "summary": "Prohibits solemnization of child marriages.",
+    "keywords": ["child marriage", "prohibition", "minor"]
+  },
+  {
+    "title": "The Prohibition of Employment as Manual Scavengers Act, 2013",
+    "summary": "Prohibits manual scavenging and promotes dignity of labour.",
+    "keywords": ["manual scavenger", "sanitation", "dignity"]
+  },
+  {
+    "title": "The Protection of Children from Sexual Offences Act, 2012",
+    "summary": "Provides protection for children from sexual offenses.",
+    "keywords": ["child", "sexual offense", "protection"]
+  },
+  {
+    "title": "The Protection of Civil Rights Act, 1955",
+    "summary": "Abolishes untouchability and enforces civil rights.",
+    "keywords": ["civil rights", "untouchability", "equality"]
+  },
+  {
+    "title": "The Protection of Human Rights Act, 1993",
+    "summary": "Establishes National Human Rights Commission.",
+    "keywords": ["human rights", "NHRC", "protection"]
+  },
+  {
+    "title": "The Protection of Plant Varieties and Farmers’ Rights Act, 2001",
+    "summary": "Protects plant breeders and farmers' rights.",
+    "keywords": ["plant", "farmers", "varieties"]
+  },
+  {
+    "title": "The Protection of Women from Domestic Violence Act, 2005",
+    "summary": "Protects women from domestic abuse.",
+    "keywords": ["domestic violence", "women", "protection"]
+  },
+  {
+    "title": "The Public Gambling Act, 1867",
+    "summary": "Prohibits gambling in public places.",
+    "keywords": ["gambling", "betting", "public"]
+  },
+  {
+    "title": "The Railways Act, 1989",
+    "summary": "Governs railways in India including safety and tariffs.",
+    "keywords": ["railway", "transport", "train"]
+  },
+  {
+    "title": "The Real Estate (Regulation and Development) Act, 2016",
+    "summary": "Regulates the real estate sector and protects buyers.",
+    "keywords": ["real estate", "RERA", "property"]
+  },
+  {
+    "title": "The Recovery of Debts and Bankruptcy Act, 1993",
+    "summary": "Provides for speedy recovery of debts of banks and financial institutions.",
+    "keywords": ["debt", "recovery", "bankruptcy"]
+  },
+  {
+    "title": "The Registration Act, 1908",
+    "summary": "Regulates registration of documents related to property.",
+    "keywords": ["registration", "property", "documents"]
+  },
+  {
+    "title": "The Reserve Bank of India Act, 1934",
+    "summary": "Constitutes the RBI and governs monetary policy.",
+    "keywords": ["RBI", "bank", "monetary"]
+  },
+  {
+    "title": "The Right to Education Act, 2009",
+    "summary": "Ensures free and compulsory education for children aged 6 to 14.",
+    "keywords": ["education", "RTE", "children"]
+  },
+  {
+    "title": "The Right to Fair Compensation and Transparency in Land Acquisition Act, 2013",
+    "summary": "Regulates land acquisition ensuring fair compensation.",
+    "keywords": ["land", "compensation", "acquisition"]
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
